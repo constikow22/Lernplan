@@ -1,0 +1,3440 @@
+{
+  "schemaVersion": 1,
+  "weeks": [
+    {
+      "num": 1,
+      "from": "2026-11-09",
+      "to": "2026-11-14",
+      "tasks": [
+        {
+          "id": "w1d0",
+          "date": "2026-11-09",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 1 · Klausurmethodik; Strafanwendungsrecht; Tatbestand, Rechtswidrigkeit und Schuld",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:1"
+        },
+        {
+          "id": "w1d1",
+          "date": "2026-11-10",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 1 · Verwaltungsakt; Anfechtungsklage; Bekanntgabe und Wirksamkeit",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:1"
+        },
+        {
+          "id": "w1d4",
+          "date": "2026-11-13",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 10 · Diebstahlsqualifikationen; Betrug; Computerbetrug",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:10"
+        },
+        {
+          "id": "w1d5",
+          "date": "2026-11-14",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 10 · Standardmaßnahmen; Polizeipflichtigkeit; doppelfunktionale Maßnahmen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:10"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "from": "2026-11-16",
+      "to": "2026-11-21",
+      "tasks": [
+        {
+          "id": "w2d0",
+          "date": "2026-11-16",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 2 · Vorsatz und Fahrlässigkeit; Rechtfertigungsgründe; Irrtümer I",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:2"
+        },
+        {
+          "id": "w2d1",
+          "date": "2026-11-17",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 2 · Nebenbestimmungen; Widerspruch; Verpflichtungsklage",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:2"
+        },
+        {
+          "id": "w2d4",
+          "date": "2026-11-20",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 11 · Raub, räuberische Erpressung, räuberischer Diebstahl; Erfolgsqualifikation",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:11"
+        },
+        {
+          "id": "w2d5",
+          "date": "2026-11-21",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 11 · Verwaltungsvollstreckung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:11"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "from": "2026-11-23",
+      "to": "2026-11-28",
+      "tasks": [
+        {
+          "id": "w3d0",
+          "date": "2026-11-23",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 3 · Entschuldigungsgründe; Irrtümer II; actio libera in causa",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:3"
+        },
+        {
+          "id": "w3d1",
+          "date": "2026-11-24",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 3 · Rücknahme, Widerruf, Wiederaufgreifen (§§ 48–51 VwVfG)",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:3"
+        },
+        {
+          "id": "w3d4",
+          "date": "2026-11-27",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 12 · Anschlussdelikte, Hausfriedensbruch; Wiederholung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:12"
+        },
+        {
+          "id": "w3d5",
+          "date": "2026-11-28",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 12 · Polizeiverordnungen; Versammlungsrecht",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:12"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "from": "2026-11-30",
+      "to": "2026-12-05",
+      "tasks": [
+        {
+          "id": "w4d0",
+          "date": "2026-11-30",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 4 · Konkurrenzen; Körperverletzungsdelikte",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:4"
+        },
+        {
+          "id": "w4d1",
+          "date": "2026-12-01",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 4 · Öffentlich-rechtlicher Vertrag; Satzungen; Feststellungsklage",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:4"
+        },
+        {
+          "id": "w4d4",
+          "date": "2026-12-04",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 13 · Brandstiftung; Untreue; Sachbeschädigung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:13"
+        },
+        {
+          "id": "w4d5",
+          "date": "2026-12-05",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 13 · Bauleitplanung; Planerhaltung; Veränderungssperre",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:13"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "from": "2026-12-07",
+      "to": "2026-12-12",
+      "tasks": [
+        {
+          "id": "w5d0",
+          "date": "2026-12-07",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 5 · Mordmerkmale; § 216 StGB; Täterschaft und Teilnahme; Sterbehilfe",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:5"
+        },
+        {
+          "id": "w5d1",
+          "date": "2026-12-08",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 5 · Ermessen; unbestimmter Rechtsbegriff; Verhältnismäßigkeit",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:5"
+        },
+        {
+          "id": "w5d4",
+          "date": "2026-12-11",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 14 · Urkundendelikte; Freiheitsberaubung; Nötigung; §§ 239a, 239b StGB",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:14"
+        },
+        {
+          "id": "w5d5",
+          "date": "2026-12-12",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 14 · Bauplanungsrecht; Außenbereich; Bestandsschutz",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:14"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "from": "2026-12-14",
+      "to": "2026-12-19",
+      "tasks": [
+        {
+          "id": "w6d0",
+          "date": "2026-12-14",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 6 · Unterlassen; Straßenverkehrsdelikte; §§ 315 ff. StGB",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:6"
+        },
+        {
+          "id": "w6d1",
+          "date": "2026-12-15",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 6 · Kommunalverfassungsstreit; Gemeinderat; Befangenheit",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:6"
+        },
+        {
+          "id": "w6d4",
+          "date": "2026-12-18",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 15 · Aussagedelikte; Ehrdelikte; Bedrohung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:15"
+        },
+        {
+          "id": "w6d5",
+          "date": "2026-12-19",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 15 · Innenbereich; Ausnahmen; Befreiungen; Bauordnungsrecht",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:15"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "from": "2026-12-21",
+      "to": "2026-12-26",
+      "tasks": [
+        {
+          "id": "w7d0",
+          "date": "2026-12-21",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 7 · § 28 StGB; Unterlassen; Widerstand gegen Vollstreckungsbeamte",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:7"
+        },
+        {
+          "id": "w7d1",
+          "date": "2026-12-22",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 7 · Kommunalaufsicht; Bürgerbegehren; Normenkontrolle",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:7"
+        },
+        {
+          "id": "w7d4",
+          "date": "2026-12-25",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Weihnachtsferien · Strafrecht: Wiederholung ohne neue Lerneinheit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w7d5",
+          "date": "2026-12-26",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Ferienwiederholung",
+          "title": "Weihnachtsferien · Öffentliches Recht: Wiederholung ohne neue Lerneinheit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "from": "2026-12-28",
+      "to": "2027-01-02",
+      "tasks": [
+        {
+          "id": "w8d0",
+          "date": "2026-12-28",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 8 · Wiederholung: AT, Tötung, Körperverletzung, Unterlassen",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:8"
+        },
+        {
+          "id": "w8d1",
+          "date": "2026-12-29",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 8 · Öffentliche Einrichtungen; Straßenrecht; Eilrechtsschutz",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:8"
+        },
+        {
+          "id": "w8d4",
+          "date": "2027-01-01",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Weihnachtsferien · Strafrecht: Karteikarten und offene Verständnisfragen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w8d5",
+          "date": "2027-01-02",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Ferienwiederholung",
+          "title": "Weihnachtsferien · Öffentliches Recht: Wiederholung Verwaltungsrecht AT",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "from": "2027-01-04",
+      "to": "2027-01-09",
+      "tasks": [
+        {
+          "id": "w9d0",
+          "date": "2027-01-04",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Nacharbeiten",
+          "title": "LE 9 · Diebstahl, Unterschlagung, Versuch und Rücktritt",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Strafrecht:9"
+        },
+        {
+          "id": "w9d1",
+          "date": "2027-01-05",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Nacharbeiten",
+          "title": "Verwaltungsrecht LE 9 · Polizeirechtliche Generalklausel; Gefahr; Pflichtigkeit; Eilrechtsschutz",
+          "instructions": "Lernziele der Lerneinheit durcharbeiten; eigene Kurzschemata erstellen; markierte Selbststudiumslektüre auswählen; 10 Minuten aktiver Abruf.",
+          "unitId": "Verwaltungsrecht:9"
+        },
+        {
+          "id": "w9d4",
+          "date": "2027-01-08",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 16 · Wiederholungseinheit (keine neuen Themen ausgewiesen)",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:16"
+        },
+        {
+          "id": "w9d5",
+          "date": "2027-01-09",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Verwaltungsrecht LE 16 · Bauaufsicht; Nachbarschutz",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Verwaltungsrecht:16"
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "from": "2027-01-11",
+      "to": "2027-01-16",
+      "tasks": [
+        {
+          "id": "w10d0",
+          "date": "2027-01-11",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht AT: Definitionen, Irrtumslehre und Aufbauschemata",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w10d1",
+          "date": "2027-01-12",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Verwaltungsrecht AT: Klagearten und Zulässigkeit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w10d4",
+          "date": "2027-01-15",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 17 · StPO: Verfahrensgrundsätze, Verfahrensgang, Zuständigkeit, Beweisrecht",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:17"
+        },
+        {
+          "id": "w10d5",
+          "date": "2027-01-16",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 1 · Demokratieprinzip; Wahlen; demokratische Legitimation",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:1"
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "from": "2027-01-18",
+      "to": "2027-01-23",
+      "tasks": [
+        {
+          "id": "w11d0",
+          "date": "2027-01-18",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht BT: Delikte gegen Person und Eigentum",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w11d1",
+          "date": "2027-01-19",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Polizeirecht: Pflichtigkeit, Standardmaßnahmen, Vollstreckung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w11d4",
+          "date": "2027-01-22",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Aktueller Stoff",
+          "title": "Strafrecht LE 18 · StPO: Beteiligte, Wahlfeststellung, aktuelle Rechtsprechung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Strafrecht:18"
+        },
+        {
+          "id": "w11d5",
+          "date": "2027-01-23",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 2 · Rechtsstaatsprinzip; Gewaltenteilung; Rückwirkung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:2"
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "from": "2027-01-25",
+      "to": "2027-01-30",
+      "tasks": [
+        {
+          "id": "w12d0",
+          "date": "2027-01-25",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht BT: Vermögensdelikte und Konkurrenzen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w12d1",
+          "date": "2027-01-26",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Kommunalrecht: Organe, Satzungen und Bürgerbegehren",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w12d4",
+          "date": "2027-01-29",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Strafrecht AT: Vorsatz, Irrtümer, Rechtfertigung, Entschuldigung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w12d5",
+          "date": "2027-01-30",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 3 · Bundesstaat; Republik; Sozialstaat; Art. 20a GG",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:3"
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "from": "2027-02-01",
+      "to": "2027-02-06",
+      "tasks": [
+        {
+          "id": "w13d0",
+          "date": "2027-02-01",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafprozessrecht: zentrale Verfahrensfragen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w13d1",
+          "date": "2027-02-02",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Baurecht: Genehmigung, Nachbarschutz, Bauplanung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w13d4",
+          "date": "2027-02-05",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Tötungs- und Körperverletzungsdelikte; Teilnahme",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w13d5",
+          "date": "2027-02-06",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 4 · Parteien; Parteienverbot; Chancengleichheit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:4"
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "from": "2027-02-08",
+      "to": "2027-02-13",
+      "tasks": [
+        {
+          "id": "w14d0",
+          "date": "2027-02-08",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht: Argumentation von Streitständen und Fehlerschwerpunkten",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w14d1",
+          "date": "2027-02-09",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Staatsrecht: Staatsorganisation und Grundrechtsprüfung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w14d4",
+          "date": "2027-02-12",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Diebstahl, Betrug, Raub und Vermögensdelikte",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w14d5",
+          "date": "2027-02-13",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 5 · Wahlen, Abgeordnete, Immunität und Indemnität",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:5"
+        }
+      ]
+    },
+    {
+      "num": 15,
+      "from": "2027-02-15",
+      "to": "2027-02-20",
+      "tasks": [
+        {
+          "id": "w15d0",
+          "date": "2027-02-15",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht AT: Definitionen, Irrtumslehre und Aufbauschemata",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w15d1",
+          "date": "2027-02-16",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Verwaltungsrecht AT: Klagearten und Zulässigkeit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w15d4",
+          "date": "2027-02-19",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Unterlassen und Straßenverkehrsdelikte",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w15d5",
+          "date": "2027-02-20",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 6 · Bundestag; Bundesrat; Untersuchungsausschüsse",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:6"
+        }
+      ]
+    },
+    {
+      "num": 16,
+      "from": "2027-02-22",
+      "to": "2027-02-27",
+      "tasks": [
+        {
+          "id": "w16d0",
+          "date": "2027-02-22",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht BT: Delikte gegen Person und Eigentum",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w16d1",
+          "date": "2027-02-23",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Polizeirecht: Pflichtigkeit, Standardmaßnahmen, Vollstreckung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w16d4",
+          "date": "2027-02-26",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Strafprozessrecht: Ermittlungsverfahren und Beweisrecht",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w16d5",
+          "date": "2027-02-27",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 7 · Bundesregierung und Bundespräsident",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:7"
+        }
+      ]
+    },
+    {
+      "num": 17,
+      "from": "2027-03-01",
+      "to": "2027-03-06",
+      "tasks": [
+        {
+          "id": "w17d0",
+          "date": "2027-03-01",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht BT: Vermögensdelikte und Konkurrenzen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w17d1",
+          "date": "2027-03-02",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Kommunalrecht: Organe, Satzungen und Bürgerbegehren",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w17d4",
+          "date": "2027-03-05",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Prüfungsschemata und Streitstände Strafrecht AT",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w17d5",
+          "date": "2027-03-06",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 8 · Gesetzgebung und Bundesrechtsausführung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:8"
+        }
+      ]
+    },
+    {
+      "num": 18,
+      "from": "2027-03-08",
+      "to": "2027-03-13",
+      "tasks": [
+        {
+          "id": "w18d0",
+          "date": "2027-03-08",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafprozessrecht: zentrale Verfahrensfragen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w18d1",
+          "date": "2027-03-09",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Baurecht: Genehmigung, Nachbarschutz, Bauplanung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w18d4",
+          "date": "2027-03-12",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Vermögens- und Urkundendelikte",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w18d5",
+          "date": "2027-03-13",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 9 · Staatshaftungsrecht",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:9"
+        }
+      ]
+    },
+    {
+      "num": 19,
+      "from": "2027-03-15",
+      "to": "2027-03-20",
+      "tasks": [
+        {
+          "id": "w19d0",
+          "date": "2027-03-15",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht: Argumentation von Streitständen und Fehlerschwerpunkten",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w19d1",
+          "date": "2027-03-16",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Staatsrecht: Staatsorganisation und Grundrechtsprüfung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w19d4",
+          "date": "2027-03-19",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Tötungs-, Körperverletzungs- und Brandstiftungsdelikte",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w19d5",
+          "date": "2027-03-20",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 10 · Allgemeine Grundrechtslehren; Art. 2 GG",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:10"
+        }
+      ]
+    },
+    {
+      "num": 20,
+      "from": "2027-03-22",
+      "to": "2027-03-27",
+      "tasks": [
+        {
+          "id": "w20d0",
+          "date": "2027-03-22",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht AT: Definitionen, Irrtumslehre und Aufbauschemata",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w20d1",
+          "date": "2027-03-23",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Verwaltungsrecht AT: Klagearten und Zulässigkeit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w20d4",
+          "date": "2027-03-26",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Strafrecht AT und Strafprozessrecht",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w20d5",
+          "date": "2027-03-27",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 11 · Menschenwürde; allgemeines Persönlichkeitsrecht; Drittwirkung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:11"
+        }
+      ]
+    },
+    {
+      "num": 21,
+      "from": "2027-03-29",
+      "to": "2027-04-03",
+      "tasks": [
+        {
+          "id": "w21d0",
+          "date": "2027-03-29",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht BT: Delikte gegen Person und Eigentum",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w21d1",
+          "date": "2027-03-30",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Polizeirecht: Pflichtigkeit, Standardmaßnahmen, Vollstreckung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w21d4",
+          "date": "2027-04-02",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Strafrecht: Klausurgliederung und Schwerpunktsetzung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w21d5",
+          "date": "2027-04-03",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 12 · Gleichheitsrechte; Art. 33 GG",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:12"
+        }
+      ]
+    },
+    {
+      "num": 22,
+      "from": "2027-04-05",
+      "to": "2027-04-10",
+      "tasks": [
+        {
+          "id": "w22d0",
+          "date": "2027-04-05",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht BT: Vermögensdelikte und Konkurrenzen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w22d1",
+          "date": "2027-04-06",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Kommunalrecht: Organe, Satzungen und Bürgerbegehren",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w22d4",
+          "date": "2027-04-09",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Strafrecht: systematische Fehleranalyse",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w22d5",
+          "date": "2027-04-10",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Ferienwiederholung",
+          "title": "Osterferien · Staatsrecht: Wiederholung ohne neue Lerneinheit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        }
+      ]
+    },
+    {
+      "num": 23,
+      "from": "2027-04-12",
+      "to": "2027-04-17",
+      "tasks": [
+        {
+          "id": "w23d0",
+          "date": "2027-04-12",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafprozessrecht: zentrale Verfahrensfragen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w23d1",
+          "date": "2027-04-13",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Baurecht: Genehmigung, Nachbarschutz, Bauplanung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w23d4",
+          "date": "2027-04-16",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Wiederholung · Strafrecht: individuelle Schwächen aus den letzten Wochen",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w23d5",
+          "date": "2027-04-17",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Ferienwiederholung",
+          "title": "Osterferien · Staatsrecht: Wiederholung ohne neue Lerneinheit",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        }
+      ]
+    },
+    {
+      "num": 24,
+      "from": "2027-04-19",
+      "to": "2027-04-24",
+      "tasks": [
+        {
+          "id": "w24d0",
+          "date": "2027-04-19",
+          "day": "Mo",
+          "area": "Strafrecht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Strafrecht: Argumentation von Streitständen und Fehlerschwerpunkten",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w24d1",
+          "date": "2027-04-20",
+          "day": "Di",
+          "area": "Öffentliches Recht",
+          "category": "Vertiefen",
+          "title": "Vertiefung · Staatsrecht: Staatsorganisation und Grundrechtsprüfung",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w24d4",
+          "date": "2027-04-23",
+          "day": "Fr",
+          "area": "Strafrecht",
+          "category": "Wiederholen",
+          "title": "Abschlusswiederholung · Strafrecht: Lückenliste und Kernschemata",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle."
+        },
+        {
+          "id": "w24d5",
+          "date": "2027-04-24",
+          "day": "Sa",
+          "area": "Öffentliches Recht",
+          "category": "Aktueller Stoff",
+          "title": "Staatsrecht LE 13 · Art. 10, 11, 13 GG; Freiheit der Person, Art. 2 II 2, 104 GG",
+          "instructions": "Leitfaden-Thema erarbeiten, Normen und Prüfungsschemata notieren; 15 Minuten Selbsttest. Keine zusätzlichen Gruppenfälle.",
+          "unitId": "Staatsrecht:13"
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "Strafrecht:1",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 1,
+      "publishedOn": "2026-09-07",
+      "calendarWeek": "2026-W37",
+      "topic": "Klausurmethodik und Grundlagen des Strafrechts",
+      "objectives": [
+        "Klausurtaktik und Methodik",
+        "Verfassungsrechtliche Grundlagen",
+        "Deliktseinteilung",
+        "Strafanwendungsrecht",
+        "Tatbestand, Rechtswidrigkeit und Schuld"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1797599",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 1",
+          "description": "Typische Probleme aus Rechtswidrigkeit und Schuld, Versuch (mit Exkurs zu grundsätzlichen Vorüberlegungen zum Klausuraufbau)",
+          "id": "Strafrecht:1:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Wörner, ZJS 2012, 630",
+          "description": "Die „zehn Gebote für die Strafrechtsklausur“",
+          "id": "Strafrecht:1:1",
+          "authors": [
+            "Wörner"
+          ],
+          "title": "Die „zehn Gebote für die Strafrechtsklausur“"
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Trinh, ZJS 2022, 516",
+          "description": "Methodische Ratschläge zum Verfassen einer erfolgreichen Strafrechtsklausur",
+          "id": "Strafrecht:1:2",
+          "authors": [
+            "Trinh"
+          ],
+          "title": "Methodische Ratschläge zum Verfassen einer erfolgreichen Strafrechtsklausur"
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kiel, JA 2022, 555",
+          "description": "Zum erfolgreichen Umgang mit (unbekannten) Problemen und neuen Sachverhaltskonstellationen",
+          "id": "Strafrecht:1:3",
+          "authors": [
+            "Kiel"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Satzger, JURA 2010, 108; 190",
+          "description": "Strafanwendungsrecht (§§ 3 ff. StGB)",
+          "id": "Strafrecht:1:4",
+          "authors": [
+            "Satzger"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Werle/Jeßberger, JuS 2001, 35",
+          "description": "Grundfälle zum Strafanwendungsrecht",
+          "id": "Strafrecht:1:5",
+          "authors": [
+            "Werle",
+            "Jeßberger"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau/Saathoff, JuS 2024, 932",
+          "description": "Grundwissen zur Kausalität",
+          "id": "Strafrecht:1:6",
+          "authors": [
+            "Rönnau",
+            "Saathoff"
+          ]
+        },
+        {
+          "id": "Strafrecht:1:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Böhm, ZJS 2019, 231",
+          "authors": [
+            "Böhm"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:2",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 2,
+      "publishedOn": "2026-09-14",
+      "calendarWeek": "2026-W38",
+      "topic": "Vorsatz, Fahrlässigkeit, Rechtfertigung und Irrtümer",
+      "objectives": [
+        "Vorsatz und bewusste Fahrlässigkeit abgrenzen",
+        "Tatumstandsirrtum nach § 16 StGB",
+        "Rechtfertigungsgründe",
+        "Einwilligung und Einverständnis",
+        "Weitere Rechtfertigungsgründe"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1804951",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 2",
+          "description": "Vorsatz (insb. bedingter Vorsatz), Mordmerkmale, Rechtfertigungsgründe, Verwerflichkeit iRd. § 240 StGB",
+          "id": "Strafrecht:2:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Sternberg-Lieben/Sternberg-Lieben, JuS 2012, 884; 976",
+          "description": "Vorsatz im Strafrecht",
+          "id": "Strafrecht:2:1",
+          "authors": [
+            "Sternberg-Lieben",
+            "Sternberg-Lieben"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau, JuS 2009, 594",
+          "description": "Subjektive Rechtfertigungselemente",
+          "id": "Strafrecht:2:2",
+          "authors": [
+            "Rönnau"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau, JuS 2012, 404",
+          "description": "„Sozialethische“ Einschränkungen der Notwehr",
+          "id": "Strafrecht:2:3",
+          "authors": [
+            "Rönnau"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kudlich, JA 2014, 587",
+          "description": "An den Grenzen der Notwehr",
+          "id": "Strafrecht:2:4",
+          "authors": [
+            "Kudlich"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau, JuS 2015, 880",
+          "description": "Antizipierte Notwehr",
+          "id": "Strafrecht:2:5",
+          "authors": [
+            "Rönnau"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Mitsch, JuS 2017, 19",
+          "description": "Die provozierte Provokation",
+          "id": "Strafrecht:2:6",
+          "authors": [
+            "Mitsch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Mitsch, ZJS 2012, 38",
+          "description": "Die mutmaßliche Einwilligung",
+          "id": "Strafrecht:2:7",
+          "authors": [
+            "Mitsch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Nussbaum, JA 2024, 740",
+          "description": "Notwehr, rechtfertigender und entschuldigender Notstand, gefährliche Körperverletzung, ärztlicher Heileingriff",
+          "id": "Strafrecht:2:8",
+          "authors": [
+            "Nussbaum"
+          ]
+        },
+        {
+          "id": "Strafrecht:2:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Nussbaum, ZJS 2021, 350",
+          "authors": [
+            "Nussbaum"
+          ],
+          "description": ""
+        },
+        {
+          "id": "Strafrecht:2:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Dannecker/Schröder, JuS 2020, 860",
+          "authors": [
+            "Dannecker",
+            "Schröder"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:3",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 3,
+      "publishedOn": "2026-09-21",
+      "calendarWeek": "2026-W39",
+      "topic": "Entschuldigungsgründe, Irrtümer und actio libera in causa",
+      "objectives": [
+        "Geschriebene und ungeschriebene Entschuldigungsgründe",
+        "Actio libera in causa",
+        "Verbotsirrtum",
+        "Erlaubnis- und Entschuldigungstatbestandsirrtum",
+        "Erlaubnis- und Entschuldigungsirrtum"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1809073",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 3",
+          "description": "Typische Probleme bei Rechtswidrigkeit und Schuld, Versuch",
+          "id": "Strafrecht:3:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Radde, JA 2016, 818",
+          "description": "Ein Opfer für den Katzenkönig („Klassiker“ in abgewandelter Form)",
+          "id": "Strafrecht:3:1",
+          "authors": [
+            "Radde"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Exner, ZJS 2009, 227",
+          "description": "Kompendium der strafrechtlichen Irrtumslehre",
+          "id": "Strafrecht:3:2",
+          "authors": [
+            "Exner"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Knobloch, JuS 2010, 864",
+          "description": "Examensrelevante Irrtümer im Strafrecht",
+          "id": "Strafrecht:3:3",
+          "authors": [
+            "Knobloch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kusche, JuS 2015, 322",
+          "description": "Die Beschränkung der rechtfertigenden Pflichtenkollision auf Unterlassungsdelikte",
+          "id": "Strafrecht:3:4",
+          "authors": [
+            "Kusche"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bechtel, JuS 2021, 401",
+          "description": "Der übergesetzliche Notstand",
+          "id": "Strafrecht:3:5",
+          "authors": [
+            "Bechtel"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau, JuS 2016, 786",
+          "description": "Die provozierte Provokation",
+          "id": "Strafrecht:3:6",
+          "authors": [
+            "Rönnau"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Christoph, JA 2016, 32",
+          "description": "Erlaubnistatbestandsirrtum in der Falllösung",
+          "id": "Strafrecht:3:7",
+          "authors": [
+            "Christoph"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Krell/Benzen, JuS 2015, 322",
+          "description": "Notwehr, (umgekehrter) Erlaubnistatbestandsirrtum",
+          "id": "Strafrecht:3:8",
+          "authors": [
+            "Krell",
+            "Benzen"
+          ]
+        },
+        {
+          "id": "Strafrecht:3:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Kudlich, JuS 2003, 243",
+          "authors": [
+            "Kudlich"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-29"
+        },
+        {
+          "id": "Strafrecht:3:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Bülte/Kuchinke, ZJS 2024, 197",
+          "authors": [
+            "Bülte",
+            "Kuchinke"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-29"
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:4",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 4,
+      "publishedOn": "2026-09-28",
+      "calendarWeek": "2026-W40",
+      "topic": "Konkurrenzen und Körperverletzungsdelikte",
+      "objectives": [
+        "Konkurrenzen",
+        "Körperverletzungsdelikte",
+        "Tatbestand, Rechtswidrigkeit, Schuld und Irrtümer wiederholen"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1812053",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 4",
+          "description": "Chantage, Mordmerkmale (weitere Vertiefungen hierzu in LE 5), Rechtswidrigkeit",
+          "id": "Strafrecht:4:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau/Wegner, JuS 2021, 17",
+          "description": "Grundwissen zu Konkurrenzen",
+          "id": "Strafrecht:4:1",
+          "authors": [
+            "Rönnau",
+            "Wegner"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kretschmer, JA 2019, 581; 666",
+          "description": "Konkurrenzlehre im Strafrecht",
+          "id": "Strafrecht:4:2",
+          "authors": [
+            "Kretschmer"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Hardtung, JuS 2008, 864; 960",
+          "description": "Die Körperverletzungsdelikte",
+          "id": "Strafrecht:4:3",
+          "authors": [
+            "Hardtung"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bollacher/Stockburger, JURA 2006, 908",
+          "description": "Der ärztliche Heileingriff in der strafrechtlichen Fallbearbeitung",
+          "id": "Strafrecht:4:4",
+          "authors": [
+            "Bollacher",
+            "Stockburger"
+          ]
+        },
+        {
+          "id": "Strafrecht:4:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Paul/Schubert, JuS 2013, 1007",
+          "authors": [
+            "Paul",
+            "Schubert"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-29"
+        },
+        {
+          "id": "Strafrecht:4:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Wagner/Drachsler, ZJS 2011, 530",
+          "authors": [
+            "Wagner",
+            "Drachsler"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-13"
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:5",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 5,
+      "publishedOn": "2026-10-05",
+      "calendarWeek": "2026-W41",
+      "topic": "Tötungsdelikte, Täterschaft, Teilnahme und Sterbehilfe",
+      "objectives": [
+        "Mordmerkmale",
+        "Privilegierung nach § 216 StGB",
+        "Gekreuzte Mordmerkmale und § 28 StGB",
+        "Mittäterschaft und mittelbare Täterschaft",
+        "Anstiftung und Beihilfe",
+        "Versuchte Beteiligung nach § 30 StGB"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1814884",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 5",
+          "description": "Täterschaft und Teilnahme bei Tötungsdelikten, § 216 StGB",
+          "id": "Strafrecht:5:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau, JuS 2020, 919",
+          "description": "Grundwissen zur Anstiftung",
+          "id": "Strafrecht:5:1",
+          "authors": [
+            "Rönnau"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Satzger, JURA 2017, 1169",
+          "description": "Omnimodo facturus in der Fallbearbeitung",
+          "id": "Strafrecht:5:2",
+          "authors": [
+            "Satzger"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "von der Meden, JuS 2015, 22; 122",
+          "description": "Objektive Zurechnung und mittelbare Täterschaft",
+          "id": "Strafrecht:5:3",
+          "authors": [
+            "von der Meden"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bosch, JA 2017, 1237",
+          "description": "§ 30 II StGB bei innerem Vorbehalt",
+          "id": "Strafrecht:5:4",
+          "authors": [
+            "Bosch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Peters/Bildner, JuS 2020, 731",
+          "description": "Mittäterschaft in der Fallbearbeitung",
+          "id": "Strafrecht:5:5",
+          "authors": [
+            "Peters",
+            "Bildner"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bechtel, JURA 2016, 865",
+          "description": "Neutrale Handlungen in der Beihilfe",
+          "id": "Strafrecht:5:6",
+          "authors": [
+            "Bechtel"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Nowak, JuS 2004, 197",
+          "description": "Verfolgerfall (Tatteilnehmer als sein eigenes Opfer)",
+          "id": "Strafrecht:5:7",
+          "authors": [
+            "Nowak"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Günther, JA 2024, 814",
+          "description": "Voraussetzungen und Grenzen der Suizidteilnahme und der Sterbehilfe (sehr aktuell!)",
+          "id": "Strafrecht:5:8",
+          "authors": [
+            "Günther"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Nestler, JURA 2024, 1027",
+          "description": "Aktuelle Rspr., assistierter Suizid als Totschlag in mittelbarer Täterschaft bei fehlender Freiverantwortlichkeit",
+          "id": "Strafrecht:5:9",
+          "authors": [
+            "Nestler"
+          ]
+        },
+        {
+          "id": "Strafrecht:5:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Petermann, JuS 2009, 1119",
+          "authors": [
+            "Petermann"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-13"
+        },
+        {
+          "id": "Strafrecht:5:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Lenk/Gerasimou, JA 2024, 121",
+          "authors": [
+            "Lenk",
+            "Gerasimou"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-13"
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:6",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 6,
+      "publishedOn": "2026-10-12",
+      "calendarWeek": "2026-W42",
+      "topic": "Straßenverkehrsdelikte und Unterlassen",
+      "objectives": [
+        "Unterlassen",
+        "Täterschaft und Teilnahme durch Unterlassen",
+        "Unerlaubtes Entfernen vom Unfallort (§ 142 StGB)",
+        "Verkehrseingriffe (§§ 315 ff. StGB)",
+        "Kraftfahrzeugrennen"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1817965",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 6",
+          "description": "Kindesmisshandlung: Tötungs- und Verletzungsdelikte",
+          "id": "Strafrecht:6:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ransiek, JuS 2010, 490; 585; 678",
+          "description": "Das unechte Unterlassungsdelikt",
+          "id": "Strafrecht:6:1",
+          "authors": [
+            "Ransiek"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Blanke-Roeser, JuS 2018, 18",
+          "description": "Kraftfahrzeugrennen iSd. § 315d StGB",
+          "id": "Strafrecht:6:2",
+          "authors": [
+            "Blanke-Roeser"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bachmann/Eichinger, JA 2011, 105",
+          "description": "Täterschaft beim Unterlassungsdelikt",
+          "id": "Strafrecht:6:3",
+          "authors": [
+            "Bachmann",
+            "Eichinger"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bachmann/Eichinger, JA 2011, 509",
+          "description": "Teilnahme und Unterlassen",
+          "id": "Strafrecht:6:4",
+          "authors": [
+            "Bachmann",
+            "Eichinger"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Friedrich, ZJS 2024, 810",
+          "description": "Fall zu den Grundlagen der Straßenverkehrsdelikte, Rechtfertigungs- und Entschuldigungsproblematiken",
+          "id": "Strafrecht:6:5",
+          "authors": [
+            "Friedrich"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schneider/Nazli, ZJS 2024, 1040",
+          "description": "Originalexamensklausur aus Ba-Wü (sehr umfangreich!)",
+          "id": "Strafrecht:6:6",
+          "authors": [
+            "Schneider",
+            "Nazli"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bechtel, JuS 2019, 114",
+          "description": "Verfolgerfall (Tatteilnehmer als sein eigenes Opfer)",
+          "id": "Strafrecht:6:7",
+          "authors": [
+            "Bechtel"
+          ]
+        },
+        {
+          "id": "Strafrecht:6:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Kett-Straub/Linke, JuS 2008, 717",
+          "authors": [
+            "Kett-Straub",
+            "Linke"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-27"
+        },
+        {
+          "id": "Strafrecht:6:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Schach, JA 2014, 113",
+          "authors": [
+            "Schach"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-27"
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:7",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 7,
+      "publishedOn": "2026-10-19",
+      "calendarWeek": "2026-W43",
+      "topic": "Straßenverkehrsdelikte, Unterlassen und Delikte gegen die Staatsgewalt",
+      "objectives": [
+        "Straßenverkehrsdelikte",
+        "Unterlassen",
+        "§§ 28–31 StGB",
+        "Delikte gegen die Staatsgewalt, insbesondere §§ 113, 114 StGB"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1820741",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 7",
+          "description": "Straßenverkehrsdelikte",
+          "id": "Strafrecht:7:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Buchholz, JA 2017, 594",
+          "description": "Grundwissen zu § 316 StGB",
+          "id": "Strafrecht:7:1",
+          "authors": [
+            "Buchholz"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Gerhold, JA 2019, 81",
+          "description": "§§ 28, 29 StGB in der Klausur",
+          "id": "Strafrecht:7:2",
+          "authors": [
+            "Gerhold"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kuhli/Bayón, JuS 2025, 801",
+          "description": "Bedeutung von § 28 StGB für die Teilnahmestrafbarkeit",
+          "id": "Strafrecht:7:3",
+          "authors": [
+            "Kuhli",
+            "Bayón"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Mennemann/Grossmann, JuS 2018, 779",
+          "description": "Klassische Probleme des Verkehrsstrafrechts (u.a. Beifahrerproblematik, pervertierter Inneneingriff)",
+          "id": "Strafrecht:7:4",
+          "authors": [
+            "Mennemann",
+            "Grossmann"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kretschmer, JA 2022, 299; 388",
+          "description": "§§ 30, 31 StGB in der Klausur",
+          "id": "Strafrecht:7:5",
+          "authors": [
+            "Kretschmer"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Eisele, JuS 2024, 471",
+          "description": "Eigenhändigkeit bei Straßenverkehrsdelikten",
+          "id": "Strafrecht:7:6",
+          "authors": [
+            "Eisele"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kulhanek, JuS 2025, 404",
+          "description": "Zeitliche Grenzen des Widerstandes gegen Vollstreckungsbeamte",
+          "id": "Strafrecht:7:7",
+          "authors": [
+            "Kulhanek"
+          ]
+        },
+        {
+          "id": "Strafrecht:7:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Rensch/Schwarz, ZJS 2021, 370",
+          "authors": [
+            "Rensch",
+            "Schwarz"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-27"
+        },
+        {
+          "id": "Strafrecht:7:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Kudlich, JA 2023, 744",
+          "authors": [
+            "Kudlich"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-10"
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:8",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 8,
+      "publishedOn": "2026-10-26",
+      "calendarWeek": "2026-W44",
+      "topic": "Wiederholungseinheit",
+      "objectives": [
+        "Klausurmethodik und Grundlagen des Strafrechts",
+        "Vorsatz, Fahrlässigkeit, Rechtfertigung, Entschuldigung, Irrtümer und actio libera in causa",
+        "Körperverletzungs- und Tötungsdelikte sowie § 28 StGB",
+        "Täterschaft, Teilnahme und Unterlassen",
+        "Straßenverkehrsdelikte und Delikte gegen die Staatsgewalt"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1823566",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 8",
+          "description": "",
+          "id": "Strafrecht:8:0",
+          "authors": []
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:9",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 9,
+      "publishedOn": "2026-11-02",
+      "calendarWeek": "2026-W45",
+      "topic": "Diebstahl, Unterschlagung, Versuch und Rücktritt",
+      "objectives": [
+        "Diebstahl nach § 242 StGB und Abgrenzung zum Betrug",
+        "Unterschlagung nach § 246 StGB",
+        "Versuch und Rücktritt"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1826246",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 9",
+          "description": "Versuch, Rücktritt, Diebstahl und Qualifikationen (Mit Exkursen zu grundsätzlichen Vorüberlegungen zum Versuch sowie zum versuchten Diebstahl in besonders schwerem Fall)",
+          "id": "Strafrecht:9:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Putzke, JuS 2009, 894; 985",
+          "description": "Der Versuch",
+          "id": "Strafrecht:9:1",
+          "authors": [
+            "Putzke"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schramm, JuS 2008, 678; 773",
+          "description": "Grundfälle zum Diebstahl",
+          "id": "Strafrecht:9:2",
+          "authors": [
+            "Schramm"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kudlich, JA 2017, 428",
+          "description": "Wegnahme in der Fallbearbeitung",
+          "id": "Strafrecht:9:3",
+          "authors": [
+            "Kudlich"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Krack, JA 2015, 905",
+          "description": "Typische Klausurfehler beim Versuch",
+          "id": "Strafrecht:9:4",
+          "authors": [
+            "Krack"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Hoffmann, JA 2016, 194",
+          "description": "Unmittelbares Ansetzen während zeitlich gestreckter Handlungsabläufe",
+          "id": "Strafrecht:9:5",
+          "authors": [
+            "Hoffmann"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Zieschang, JA 2024, 265",
+          "description": "Klausurrelevante Probleme des objektiven Tatbestands der Diebstahlvorschrift",
+          "id": "Strafrecht:9:6",
+          "authors": [
+            "Zieschang"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Nestler, JURA 2023, 1099",
+          "description": "Rücktritt mehrerer Beteiligten im Fall des Nichtweiterhandelns (aktuelle Rspr.)",
+          "id": "Strafrecht:9:7",
+          "authors": [
+            "Nestler"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rennicke, ZJS 2020, 343",
+          "description": "“Containern“",
+          "id": "Strafrecht:9:8",
+          "authors": [
+            "Rennicke"
+          ]
+        },
+        {
+          "id": "Strafrecht:9:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Schumann/Zivanic, JA 2018, 504",
+          "authors": [
+            "Schumann",
+            "Zivanic"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-10"
+        },
+        {
+          "id": "Strafrecht:9:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Moldenhauer, JA 2025, 28",
+          "authors": [
+            "Moldenhauer"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-10"
+        }
+      ]
+    },
+    {
+      "id": "Strafrecht:10",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 10,
+      "publishedOn": "2026-11-09",
+      "calendarWeek": "2026-W46",
+      "topic": "Diebstahlsqualifikationen, Betrug und Computerbetrug",
+      "objectives": [
+        "Qualifikationen und Regelbeispiele beim Diebstahl",
+        "Betrug",
+        "Computerbetrug"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1829143",
+      "literature": [
+        {
+          "type": "Fall der Woche",
+          "reference": "Fall 10",
+          "description": "Abgrenzung Sachbetrug/Trickdiebstahl, Computerbetrug",
+          "id": "Strafrecht:10:0",
+          "authors": []
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Becker/Rönnau, JuS 2017, 975",
+          "description": "Betrug: Der objektiv-individuelle Schadensbegriff",
+          "id": "Strafrecht:10:1",
+          "authors": [
+            "Becker",
+            "Rönnau"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Strauß, JuS 2024, 308",
+          "description": "Die Abgrenzung von Betrug und Diebstahl",
+          "id": "Strafrecht:10:2",
+          "authors": [
+            "Strauß"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kulhanek, JA 2015, 828",
+          "description": "Klausurrelevante Probleme des Betrugs",
+          "id": "Strafrecht:10:3",
+          "authors": [
+            "Kulhanek"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Wachter, JA 2017, 723; 828",
+          "description": "Grundfälle zum Computerbetrug",
+          "id": "Strafrecht:10:4",
+          "authors": [
+            "Wachter"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Göken/Reinwald, JA 2024, 559",
+          "description": "Diebstahl mit Qualifikationen/Regelbeispielen, Betrug, Hehlerei und Straßenverkehrsdelikte",
+          "id": "Strafrecht:10:5",
+          "authors": [
+            "Göken",
+            "Reinwald"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Krokotsch, JuS 2023, 1103",
+          "description": "Der Anstellungsbetrug",
+          "id": "Strafrecht:10:6",
+          "authors": [
+            "Krokotsch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau/Saathoff, JuS 2024, 509",
+          "description": "Stoffgleichheit",
+          "id": "Strafrecht:10:7",
+          "authors": [
+            "Rönnau",
+            "Saathoff"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ransiek/Kock/Menke, JuS 2024, 1048",
+          "description": "Versuchsbeginn beim Wohnungseinbruchsdiebstahl, sukzessive Mittäterschaft beim qualifizierten Raub, neutrale Beihilfe, Vermögensbegriff des § 263 StGB",
+          "id": "Strafrecht:10:8",
+          "authors": [
+            "Ransiek",
+            "Kock",
+            "Menke"
+          ]
+        },
+        {
+          "id": "Strafrecht:10:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Oğlakcıoğlu/Rückert, Fälle zum Strafrecht BT, 2. Aufl. 2022, Fall 6",
+          "authors": [
+            "Oğlakcıoğlu",
+            "Rückert"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-24"
+        },
+        {
+          "id": "Strafrecht:10:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Oğlakcıoğlu/Rückert, Fälle zum Strafrecht BT, 2. Aufl. 2022, Fall 9",
+          "authors": [
+            "Oğlakcıoğlu",
+            "Rückert"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-24"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:1",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 1,
+      "publishedOn": "2026-09-07",
+      "calendarWeek": "2026-W37",
+      "topic": "Verwaltungsrecht AT I – Verwaltungsakt, Zusicherung und Anfechtungsklage",
+      "objectives": [
+        "Ermächtigungsgrundlage bei der Leistungsverwaltung",
+        "Merkmale des Verwaltungsakts (§ 35 VwVfG)",
+        "Bekanntgabe (§ 41 VwVfG, VwZG)",
+        "Wirksamkeit (§§ 43–47 VwVfG)",
+        "Zusicherung (§ 38 VwVfG)",
+        "Anfechtungsklage (§ 42 Abs. 1 Alt. 1 VwGO)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1797628",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Hartmann/Schneider, JuS 2013, 627",
+          "description": "Ermächtigungsgrundlage im Bereich der Leistungsverwaltung, Ermessensfehlerlehre bei Auswahlentscheidungen, Drittanfechtungsklage",
+          "id": "Verwaltungsrecht:1:0",
+          "authors": [
+            "Hartmann",
+            "Schneider"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Hartmann, ZJS 2023, 129",
+          "description": "Unbekannte Normen, VwZG, Wiedereinsetzungen in den vorigen Stand nach § 60 VwGO, Anfechtungsklage",
+          "id": "Verwaltungsrecht:1:1",
+          "authors": [
+            "Hartmann"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Rusteberg, ZJS 2022, 746",
+          "description": "Nichtigkeit eines Verwaltungsaktes",
+          "id": "Verwaltungsrecht:1:2",
+          "authors": [
+            "Rusteberg"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Herrmann, ZJS 2011, 25",
+          "description": "Aus dem Leben eines Verwaltungsakts",
+          "id": "Verwaltungsrecht:1:3",
+          "authors": [
+            "Herrmann"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schlingloff, ZJS 2023, 228",
+          "description": "Der Weg des Verwaltungsakts",
+          "id": "Verwaltungsrecht:1:4",
+          "authors": [
+            "Schlingloff"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Barczak, JuS 2018, 238",
+          "description": "Typologie des Verwaltungsakts",
+          "id": "Verwaltungsrecht:1:5",
+          "authors": [
+            "Barczak"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Lang, ZJS 2020, 234",
+          "description": "Anhörungspflicht und Fehlerfolgen bei belastendem staatlichem Handeln abseits des Verwaltungsakts",
+          "id": "Verwaltungsrecht:1:6",
+          "authors": [
+            "Lang"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Frenz, JA 2011, 433",
+          "description": "Die Anfechtungsklage",
+          "id": "Verwaltungsrecht:1:7",
+          "authors": [
+            "Frenz"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schenke, JuS 2019, 833",
+          "description": "Der maßgebliche Zeitpunkt für die Beurteilung von Verwaltungsakten im Rahmen der Anfechtungsklage",
+          "id": "Verwaltungsrecht:1:8",
+          "authors": [
+            "Schenke"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:1:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Golla/Milker, ZJS 2019, 396",
+          "authors": [
+            "Golla",
+            "Milker"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-22"
+        },
+        {
+          "id": "Verwaltungsrecht:1:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Scholz/Volkert, JuS 2021, 1042",
+          "authors": [
+            "Scholz",
+            "Volkert"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:2",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 2,
+      "publishedOn": "2026-09-14",
+      "calendarWeek": "2026-W38",
+      "topic": "Verwaltungsrecht AT II – Nebenbestimmungen und Widerspruch",
+      "objectives": [
+        "Inhalts- und Nebenbestimmungen (§ 36 VwVfG)",
+        "Reformatio in peius",
+        "Widerspruchsverfahren",
+        "Gaststättenrecht",
+        "Verpflichtungsklage (§ 42 Abs. 1 Alt. 2 VwGO)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1804930",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Schilderoth/Wegner, JA 2021, 138",
+          "description": "Rechtsschutz gegen Nebenbestimmungen, Immissionsschutzrecht",
+          "id": "Verwaltungsrecht:2:0",
+          "authors": [
+            "Schilderoth",
+            "Wegner"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Schmehl, JA 2010, 128",
+          "description": "Rechtsschutz gegen Nebenbestimmungen, Anforderungen an Gewerbetreibende, GastG, Ermessensausübung",
+          "id": "Verwaltungsrecht:2:1",
+          "authors": [
+            "Schmehl"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Cakil-Akkol/Christanz, JuS 2021, 241",
+          "description": "Rechtsschutz gegen Nebenbestimmungen, WaffG",
+          "id": "Verwaltungsrecht:2:2",
+          "authors": [
+            "Cakil-Akkol",
+            "Christanz"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Berg/Zentgraf, ZJS 2020, 381",
+          "description": "Anfechtungsklage, GastG und ProstSchG",
+          "id": "Verwaltungsrecht:2:3",
+          "authors": [
+            "Berg",
+            "Zentgraf"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Lemken/Paskowski, ZJS 2024, 761",
+          "description": "Rechtsschutz gegen Nebenbestimmungen, objektive Klagehäufung, unbekannte Normen, Verhältnismäßigkeitsgrundsatz",
+          "id": "Verwaltungsrecht:2:4",
+          "authors": [
+            "Lemken",
+            "Paskowski"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ritter, ZJS 2021, 123",
+          "description": "Examenstypische Probleme im Zusammenhang mit der Widerspruchsfrist",
+          "id": "Verwaltungsrecht:2:5",
+          "authors": [
+            "Ritter"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Voßkuhle/Kaiser, JuS 2012, 699",
+          "description": "Grundwissen Nebenbestimmungen",
+          "id": "Verwaltungsrecht:2:6",
+          "authors": [
+            "Voßkuhle",
+            "Kaiser"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Hummel, JA 2022, 659",
+          "description": "Prüfungsrelevante Grundzüge des Gaststättenrechts",
+          "id": "Verwaltungsrecht:2:7",
+          "authors": [
+            "Hummel"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Scherff, JA 2024, 481",
+          "description": "Nebenbestimmungsermächtigungen in Spezialgesetzen",
+          "id": "Verwaltungsrecht:2:8",
+          "authors": [
+            "Scherff"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Frenz, JA 2011, 917",
+          "description": "Die Verpflichtungsklage",
+          "id": "Verwaltungsrecht:2:9",
+          "authors": [
+            "Frenz"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:2:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Heidebach, JA 2009, 797",
+          "authors": [
+            "Heidebach"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-22"
+        },
+        {
+          "id": "Verwaltungsrecht:2:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Kment/Borchert, JuS 2023, 38",
+          "authors": [
+            "Kment",
+            "Borchert"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:3",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 3,
+      "publishedOn": "2026-09-21",
+      "calendarWeek": "2026-W39",
+      "topic": "Verwaltungsrecht AT III – Aufhebung und Wiederaufgreifen",
+      "objectives": [
+        "Rücknahme und Widerruf (§§ 48, 49 VwVfG)",
+        "Ermessensreduktion auf null",
+        "Wiederaufgreifen (§ 51 VwVfG)",
+        "Waffenrecht"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1809095",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Pache/Volkert, JuS 2024, 1146",
+          "description": "Aufhebung eines teilrechtswidrigen Subventionsbescheids",
+          "id": "Verwaltungsrecht:3:0",
+          "authors": [
+            "Pache",
+            "Volkert"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Haltern/Manthey, JuS 2016, 344",
+          "description": "Anfechtungsklage, Rückforderung von Subventionen, Ermessensfehler",
+          "id": "Verwaltungsrecht:3:1",
+          "authors": [
+            "Haltern",
+            "Manthey"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Thiel/Westphal, JuS 2012, 618",
+          "description": "Antrag auf Wiederaufgreifen des Verfahrens nach § 51 VwVfG",
+          "id": "Verwaltungsrecht:3:2",
+          "authors": [
+            "Thiel",
+            "Westphal"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Dau/Mein, JuS 2016, 430",
+          "description": "Anfechtungsklage, Waffenrecht",
+          "id": "Verwaltungsrecht:3:3",
+          "authors": [
+            "Dau",
+            "Mein"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Krausnick, JuS 2010, 594; 681; 778",
+          "description": "Grundfälle zu §§ 48, 49 VwVfG",
+          "id": "Verwaltungsrecht:3:4",
+          "authors": [
+            "Krausnick"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Eisenbarth, VBlBW 2024, 221",
+          "description": "Waffenrecht – Rechtsrahmen und Vollzugspraxis eines gemiedenen Gefahrengebietes",
+          "id": "Verwaltungsrecht:3:5",
+          "authors": [
+            "Eisenbarth"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Scherff, JA 2023, 841",
+          "description": "Rücknahme und Widerruf in Spezialgesetzen",
+          "id": "Verwaltungsrecht:3:6",
+          "authors": [
+            "Scherff"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Brade, JA 2022, 304",
+          "description": "Das Wiederaufgreifen des Verwaltungsverfahrens im weiteren Sinne (§ 51 V VwVfG i.V.m. §§ 48, 49 VwVfG)",
+          "id": "Verwaltungsrecht:3:7",
+          "authors": [
+            "Brade"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Grosche, NVwZ 2023, 628",
+          "description": "Ermessensreduzierung auf Null bei der Rücknahme grundrechtswidriger Verwaltungsakte",
+          "id": "Verwaltungsrecht:3:8",
+          "authors": [
+            "Grosche"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Martini, JA 2012, 762; 2013, 442",
+          "description": "Die Aufhebung von Verwaltungsakten nach §§ 48 ff. VwVfG",
+          "id": "Verwaltungsrecht:3:9",
+          "authors": [
+            "Martini"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:3:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Funke/Waidhas, JA 2014, 439",
+          "authors": [
+            "Funke",
+            "Waidhas"
+          ],
+          "description": "",
+          "scheduledOn": "2026-11-22"
+        },
+        {
+          "id": "Verwaltungsrecht:3:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Manssen/Greim, JuS 2010, 429",
+          "authors": [
+            "Manssen",
+            "Greim"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-06"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:4",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 4,
+      "publishedOn": "2026-09-28",
+      "calendarWeek": "2026-W40",
+      "topic": "Verwaltungsrecht AT IV – Öffentlich-rechtlicher Vertrag und Feststellungsklage",
+      "objectives": [
+        "Öffentlich-rechtliche Verträge (§§ 54 ff. VwVfG)",
+        "Satzungen",
+        "Verwaltungsvorschriften",
+        "IFG und Presseauskunft",
+        "Selbstbindung (Art. 3 Abs. 1 GG)",
+        "Feststellungsklage (§ 43 VwGO)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1812065",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Singer/Mielke, JuS 2007, 1111",
+          "description": "Öffentlich-rechtlicher Vertrag, öffentlich-rechtliche GoA, öffentlich-rechtlicher Erstattungsanspruch, Anspruch aus öffentlich-rechtlichem Schuldverhältnis (c.i.c.)",
+          "id": "Verwaltungsrecht:4:0",
+          "authors": [
+            "Singer",
+            "Mielke"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Eisentraut, Fälle zum Verwaltungsrecht: 16 Klausurfälle mit ausführlichen Lösungen, 2019, Fall 9",
+          "description": "ausführlichen Lösungen, 2019, Fall 9 Allgemeine Leistungsklage, öffentlich-rechtlicher Vertrag",
+          "id": "Verwaltungsrecht:4:1",
+          "authors": [
+            "Eisentraut"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Hering, JuS 2023, 249",
+          "description": "Auskunftsanspruch der Presse",
+          "id": "Verwaltungsrecht:4:2",
+          "authors": [
+            "Hering"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Geis/Schmidt, JuS 2012, 599",
+          "description": "Grundfälle zur Feststellungsklage nach § 43 VwGO",
+          "id": "Verwaltungsrecht:4:3",
+          "authors": [
+            "Geis",
+            "Schmidt"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Voßkuhle/Kaiser, JuS 2013, 687",
+          "description": "Grundwissen zum öffentlich-rechtlichen Vertrag",
+          "id": "Verwaltungsrecht:4:4",
+          "authors": [
+            "Voßkuhle",
+            "Kaiser"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Voßkuhle/Schemmel, JuS 2024, 1121",
+          "description": "Grundwissen zur öffentlich-rechtlichen Satzung",
+          "id": "Verwaltungsrecht:4:5",
+          "authors": [
+            "Voßkuhle",
+            "Schemmel"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ellerbrok, ZJS 2022, 319",
+          "description": "Die öffentlich-rechtliche Satzung",
+          "id": "Verwaltungsrecht:4:6",
+          "authors": [
+            "Ellerbrok"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Remmert, JURA 2004, 728",
+          "description": "Rechtsprobleme mit Verwaltungsvorschriften",
+          "id": "Verwaltungsrecht:4:7",
+          "authors": [
+            "Remmert"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kluckert, JuS 2019, 536",
+          "description": "Selbstbindung der Verwaltung",
+          "id": "Verwaltungsrecht:4:8",
+          "authors": [
+            "Kluckert"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schoch, JURA 2012, 203",
+          "description": "Zugang zu amtlichen Informationen nach dem Informationsfreiheitsgesetz des Bundes (IFG)",
+          "id": "Verwaltungsrecht:4:9",
+          "authors": [
+            "Schoch"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:4:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Broscheit, JA 2016, 840",
+          "authors": [
+            "Broscheit"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-06"
+        },
+        {
+          "id": "Verwaltungsrecht:4:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Wienfort, JuS 2021, 610",
+          "authors": [
+            "Wienfort"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-06"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:5",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 5,
+      "publishedOn": "2026-10-05",
+      "calendarWeek": "2026-W41",
+      "topic": "Verwaltungsrecht AT V – Ermessen und Verhältnismäßigkeit",
+      "objectives": [
+        "Ermessensausübung und Ermessensfehler",
+        "Verhältnismäßigkeit",
+        "Unbestimmte Rechtsbegriffe",
+        "Gewerberecht"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1814907",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Schumacher, ZJS 2024, 533",
+          "description": "Unbestimmte Rechtsbegriffe, Verhältnismäßigkeitsprüfung",
+          "id": "Verwaltungsrecht:5:0",
+          "authors": [
+            "Schumacher"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Faßbender, JuS 2012, 332",
+          "description": "Beurteilungsspielraum der Verwaltung",
+          "id": "Verwaltungsrecht:5:1",
+          "authors": [
+            "Faßbender"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Linke, JuS 2018, 259",
+          "description": "Gewerberecht, Widerspruchsverfahren",
+          "id": "Verwaltungsrecht:5:2",
+          "authors": [
+            "Linke"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Glaesner/Leymann, JA 2023, 39",
+          "description": "Verpflichtungsklage, Beamtenrecht, Beurteilungsspielraum, Ermessensausübung",
+          "id": "Verwaltungsrecht:5:3",
+          "authors": [
+            "Glaesner",
+            "Leymann"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Voßkuhle, JuS 2008, 117",
+          "description": "Entscheidungsspielräume der Verwaltung (Ermessen, Beurteilungsspielraum, planerische Gestaltungsfreiheit)",
+          "id": "Verwaltungsrecht:5:4",
+          "authors": [
+            "Voßkuhle"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Wienbracke, ZJS 2013, 148",
+          "description": "Verhältnismäßigkeitsgrundsatz",
+          "id": "Verwaltungsrecht:5:5",
+          "authors": [
+            "Wienbracke"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Hufen, ZJS 2010, 603",
+          "description": "Ermessen und unbestimmte Rechtsbegriffe",
+          "id": "Verwaltungsrecht:5:6",
+          "authors": [
+            "Hufen"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Leisner, GewA 2008, 225",
+          "description": "Unzuverlässigkeit nach § 35 GewO",
+          "id": "Verwaltungsrecht:5:7",
+          "authors": [
+            "Leisner"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:5:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Klotz, JA 2016, 123",
+          "authors": [
+            "Klotz"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-06"
+        },
+        {
+          "id": "Verwaltungsrecht:5:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Hartmann/Horstmann, JuS 2024, 341",
+          "authors": [
+            "Hartmann",
+            "Horstmann"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-06"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:6",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 6,
+      "publishedOn": "2026-10-12",
+      "calendarWeek": "2026-W42",
+      "topic": "Kommunalrecht I – Kommunalverfassung und Gemeinderat",
+      "objectives": [
+        "Kommunalverfassungsbeschwerde",
+        "Kommunalverfassungsstreit",
+        "Mitwirkungsverbot bei Befangenheit",
+        "Gemeinderatssitzungen"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1817939",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Reiling, VBlBW 2020, 396; 435",
+          "description": "Antrag auf Aufnahme an die Tagesordnung, präventives Prüfungsrecht des Bürgermeisters, gemeindliche Kompetenzen",
+          "id": "Verwaltungsrecht:6:0",
+          "authors": [
+            "Reiling"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Harder/Herrmann, VBlBW 2019, 483; 522",
+          "description": "Ausschluss von einer Gemeinderatssitzung, Hausrecht des Bürgermeisters",
+          "id": "Verwaltungsrecht:6:1",
+          "authors": [
+            "Harder",
+            "Herrmann"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Drescher/Klamet, JuS 2020, 855",
+          "description": "Kommunale Satzung, ordnungsgemäße Einberufung und Beschlussfassung des Gemeinderats, Sondernutzungserlaubnis nach § 16 LStrG",
+          "id": "Verwaltungsrecht:6:2",
+          "authors": [
+            "Drescher",
+            "Klamet"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Körner, Verwaltungsgerichtliche Praxis 2023, Fall 7",
+          "description": "Kommunalverfassungsstreit; Rechtsstellung des Bürgermeisters und der Gemeinderäte, Äußerungsbefugnis in einer Gemeinderatssitzung",
+          "id": "Verwaltungsrecht:6:3",
+          "authors": [
+            "Körner"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Rennert, JuS 2008, 29; 119; 211",
+          "description": "Die Klausur im Kommunalrecht",
+          "id": "Verwaltungsrecht:6:4",
+          "authors": [
+            "Rennert"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schlinghoff, ZJS 2022, 483",
+          "description": "Wiederkehrende Klausurprobleme aus dem Kommunalrecht",
+          "id": "Verwaltungsrecht:6:5",
+          "authors": [
+            "Schlinghoff"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schmidt, JA 2008, 763",
+          "description": "Die Kommunalverfassungsbeschwerde",
+          "id": "Verwaltungsrecht:6:6",
+          "authors": [
+            "Schmidt"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ogorek, JuS 2009, 511",
+          "description": "Der Kommunalverfassungsstreit im Verwaltungsprozess",
+          "id": "Verwaltungsrecht:6:7",
+          "authors": [
+            "Ogorek"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schoch, VBlBW 2024, 397",
+          "description": "Das kommunalrechtliche Mitwirkungsverbot wegen Befangenheit",
+          "id": "Verwaltungsrecht:6:8",
+          "authors": [
+            "Schoch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Katz, NVwZ 2020, 1076",
+          "description": "Öffentlichkeit vs. Nichtöffentlichkeit von Gemeinderatssitzungen am Beispiel von Grundstücksangelegenheiten",
+          "id": "Verwaltungsrecht:6:9",
+          "authors": [
+            "Katz"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Austermann, JURA 2023, 419",
+          "description": "Das Hausrecht in Verwaltung und Parlament",
+          "id": "Verwaltungsrecht:6:10",
+          "authors": [
+            "Austermann"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:6:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Janson/Blenk, JuS 2018, 461",
+          "authors": [
+            "Janson",
+            "Blenk"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-20"
+        },
+        {
+          "id": "Verwaltungsrecht:6:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Seidel/Reimer/Möstl, Allgemeines Verwaltungsrecht, 3. Aufl. 2019, Fall 14",
+          "authors": [
+            "Seidel",
+            "Reimer",
+            "Möstl"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-20"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:7",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 7,
+      "publishedOn": "2026-10-19",
+      "calendarWeek": "2026-W43",
+      "topic": "Kommunalrecht II – Satzung, Aufsicht und Bürgerbegehren",
+      "objectives": [
+        "Kommunale Satzung",
+        "Staatsaufsicht über Kommunen",
+        "Bürgerbegehren",
+        "Kommunalwirtschaft (§ 102 GemO)",
+        "Normenkontrolle (§ 47 VwGO)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1820727",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Schneider/Rausche/Silvani, VBlBW 2023, 218; 256",
+          "description": "Bürgerbegehren, Organstellung der Unterzeichner, Außenwirkung von Gemeinderatsbeschlüssen, Ausschlussgründe nach § 18 GemO",
+          "id": "Verwaltungsrecht:7:0",
+          "authors": [
+            "Schneider",
+            "Rausche",
+            "Silvani"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Stein, VBlBW 2023, 308; 343",
+          "description": "Recht kommunaler wirtschaftlicher Betätigung (§§ 102 ff. GemO), sonstige Unterlassungsansprüche",
+          "id": "Verwaltungsrecht:7:1",
+          "authors": [
+            "Stein"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Lebsanft, VBlBW 2016, 40; 77",
+          "description": "Bürgerbegehren, Gemeinderatsbeschluss und Verstoß gegen das Öffentlichkeitsprinzip",
+          "id": "Verwaltungsrecht:7:2",
+          "authors": [
+            "Lebsanft"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Dittrich, VBlBW 2016, 480; 520",
+          "description": "Doppelfunktionalität des Landratsamts, Beanstandung (§ 121 GemO), Antrag auf Aufnahme an die Tagesordnung",
+          "id": "Verwaltungsrecht:7:3",
+          "authors": [
+            "Dittrich"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Mann/Lang, JURA 2022, 693",
+          "description": "Die Normenkontrolle nach § 47 VwGO",
+          "id": "Verwaltungsrecht:7:4",
+          "authors": [
+            "Mann",
+            "Lang"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Bätge, KommJur 2020, 321; 365",
+          "description": "Die wirtschaftliche Betätigung der Kommunen im Lichte der aktuellen Rechtsprechung",
+          "id": "Verwaltungsrecht:7:5",
+          "authors": [
+            "Bätge"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Franz, JuS 2004, 940",
+          "description": "Die Staatsaufsicht über die Kommunen",
+          "id": "Verwaltungsrecht:7:6",
+          "authors": [
+            "Franz"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ellerbrok, ZJS 2022, 319",
+          "description": "Die öffentlich-rechtliche Satzung",
+          "id": "Verwaltungsrecht:7:7",
+          "authors": [
+            "Ellerbrok"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Burgi, Kommunalrecht, 7. Auflage 2024, § 11 Rn. 2-13, 32-52",
+          "description": "",
+          "id": "Verwaltungsrecht:7:8",
+          "authors": [
+            "Burgi"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:7:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Egidy, VBlBW 2024, 392; 433",
+          "authors": [
+            "Egidy"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-20"
+        },
+        {
+          "id": "Verwaltungsrecht:7:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Beyerbach, JA 2018, 121",
+          "authors": [
+            "Beyerbach"
+          ],
+          "description": "",
+          "scheduledOn": "2026-12-20"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:8",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 8,
+      "publishedOn": "2026-10-26",
+      "calendarWeek": "2026-W44",
+      "topic": "Kommunalrecht III – Öffentliche Einrichtungen, öffentliche Sachen und Straßenrecht",
+      "objectives": [
+        "Nutzung kommunaler Einrichtungen",
+        "Recht der öffentlichen Sachen",
+        "Sondernutzungserlaubnis nach Landesstraßenrecht",
+        "Mittelbare Staatsverwaltung",
+        "Allgemeine Leistungsklage",
+        "Verwaltungsprozessualer Eilrechtsschutz"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1823547",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Ludwigs/Zentgraf, JuS 2020, 1188",
+          "description": "Anspruch auf Zugang zu öffentlichen Einrichtungen, nachträgliche Einschränkung der Widmung, Angelegenheiten der Gemeinde nach Art. 28 II 1 GG, Verstoß gegen die Berufs- und Kunstfreiheit",
+          "id": "Verwaltungsrecht:8:0",
+          "authors": [
+            "Ludwigs",
+            "Zentgraf"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Keiter/Krumm, VBlBW 2017, 40; 77",
+          "description": "Straßenumbenennung nach § 5 IV GemO, Heilung und Unbeachtlichkeit formeller Fehler (§§ 45, 46 LVwVfG), Kostenbescheid nach § 16 VIII LStrG",
+          "id": "Verwaltungsrecht:8:1",
+          "authors": [
+            "Keiter",
+            "Krumm"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Bostedt, Verwaltungsgerichtliche Praxis 2020, Fall 9",
+          "description": "Anspruch auf Zugang zu öffentlichen Einrichtungen aus § 10 II 2 GemO, nachträgliche Einschränkung der Widmung, Anspruch aus § 70 GewO",
+          "id": "Verwaltungsrecht:8:2",
+          "authors": [
+            "Bostedt"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Erbguth, JURA 2008, 193",
+          "description": "Recht der öffentlichen Sachen  Ehlers, JURA 2012, 692; 849   Rechtsprobleme der Nutzung kommunaler öffentlicher Einrichtungen",
+          "id": "Verwaltungsrecht:8:3",
+          "authors": [
+            "Erbguth"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Mager/Sokol, JURA 2012, 913",
+          "description": "Gemeingebrauch im Recht der öffentlichen Sachen",
+          "id": "Verwaltungsrecht:8:4",
+          "authors": [
+            "Mager",
+            "Sokol"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Ehlers, JURA 2006, 351",
+          "description": "Die allgemeine verwaltungsgerichtliche Leistungsklage",
+          "id": "Verwaltungsrecht:8:5",
+          "authors": [
+            "Ehlers"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kemmler, JA 2015, 328",
+          "description": "Die mittelbare Staatsverwaltung und ihre ausbildungsrelevanten Themenbereiche",
+          "id": "Verwaltungsrecht:8:6",
+          "authors": [
+            "Kemmler"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kahl/Weißenberger, JURA 2009, 194",
+          "description": "Die Privatisierung kommunaler öffentlicher Einrichtungen: Formen – Grenzen – Probleme",
+          "id": "Verwaltungsrecht:8:7",
+          "authors": [
+            "Kahl",
+            "Weißenberger"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Hummel, JuS 2011, 317; 413; 502",
+          "description": "Der vorläufige Rechtsschutz im Verwaltungsprozess",
+          "id": "Verwaltungsrecht:8:8",
+          "authors": [
+            "Hummel"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Geis/Meier, JuS 2013, 28",
+          "description": "Grundfälle zur allgemeinen Leistungsklage",
+          "id": "Verwaltungsrecht:8:9",
+          "authors": [
+            "Geis",
+            "Meier"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:8:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Bader, JURA 2009, 940",
+          "authors": [
+            "Bader"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-03"
+        },
+        {
+          "id": "Verwaltungsrecht:8:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Groß, VBlBW 2024, 41; 83",
+          "authors": [
+            "Groß"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-03"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:9",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 9,
+      "publishedOn": "2026-11-02",
+      "calendarWeek": "2026-W45",
+      "topic": "Polizei- und Ordnungsrecht I – Grundlagen",
+      "objectives": [
+        "Polizeirechtliche Generalklausel",
+        "Öffentliche Sicherheit und Ordnung",
+        "Gefahr, Anscheins- und Scheingefahr sowie Gefahrenverdacht",
+        "Polizeipflichtigkeit (§§ 6 ff. PolG)",
+        "Einstweiliger Rechtsschutz (§§ 80, 80a, 80b, 123 und 47 Abs. 6 VwGO)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1826265",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Poscher/Lassahn, JURA 2016, 1064",
+          "description": "Sachverhaltsermittlung, Begriff der Öffentlichen Sicherheit und Ordnung, Gefahrenbegriff, Polizeipflichtigkeit",
+          "id": "Verwaltungsrecht:9:0",
+          "authors": [
+            "Poscher",
+            "Lassahn"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Peine/Siegel, Klausurenkurs im Verwaltungsrecht, Fall 9, S. 192 ff.",
+          "description": "Anfechtungsklage, Einordnung einer Meldeauflage, Polizeiliche Generalklausel",
+          "id": "Verwaltungsrecht:9:1",
+          "authors": [
+            "Peine",
+            "Siegel"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Denz, Passentziehung bei Gefahren für das internationale Ansehen",
+          "description": "internationale Ansehen (abrufbar unter: https://examensgerecht.de/passentziehung-bei-gefahren-fuer-das-internationale-ansehen/; zuletzt abgerufen am 04.02.2025) Formelle Rechtmäßigkeit, Gefahrenprognose, Meldeauflage, Passentziehung",
+          "id": "Verwaltungsrecht:9:2",
+          "authors": [
+            "Denz"
+          ],
+          "title": "Passentziehung bei Gefahren für das internationale Ansehen",
+          "url": "https://examensgerecht.de/passentziehung-bei-gefahren-fuer-das-internationale-ansehen/"
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Heinze, Systematisches Fallrepetitorium Besonderes Verwaltungsrecht, Fall 1, S. 1 ff.",
+          "description": "Verwaltungsrecht, Fall 1, S. 1 ff. Gefährdungsanschreiben; Generalklausel; öffentliche Ordnung; Wiedereinsetzung in den vorigen Stand; Zustellung; elektronische Klageerhebung; elektronisches Urteil",
+          "id": "Verwaltungsrecht:9:3",
+          "authors": [
+            "Heinze"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schenke, JuS 2018, 505",
+          "description": "Gefahrenbegriff, Anscheinsgefahr, Gefahrenverdacht",
+          "id": "Verwaltungsrecht:9:4",
+          "authors": [
+            "Schenke"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Poscher/Rusteberg, JuS 2011, 888, 984, 1082; 2012, 26",
+          "description": "Überblick über das polizeirechtliche Basiswissen",
+          "id": "Verwaltungsrecht:9:5",
+          "authors": [
+            "Poscher",
+            "Rusteberg"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Meyer, JA 2024, 749",
+          "description": "Prüfung der polizeirechtlichen Generalklausel, Gefahrenbegriff, Störerauswahl",
+          "id": "Verwaltungsrecht:9:6",
+          "authors": [
+            "Meyer"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Erbguth, JA 2008, 357",
+          "description": "Einstweiliger Rechtschutz gegen Verwaltungsakte",
+          "id": "Verwaltungsrecht:9:7",
+          "authors": [
+            "Erbguth"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Lüttmann, ZJS 2023, 719",
+          "description": "Antrag nach § 80 V VwGO",
+          "id": "Verwaltungsrecht:9:8",
+          "authors": [
+            "Lüttmann"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:9:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Seidel/Stendel/Lang, Besonderes Verwaltungsrecht, 4. Aufl. 2023, Fall 16",
+          "authors": [
+            "Seidel",
+            "Stendel",
+            "Lang"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-03"
+        },
+        {
+          "id": "Verwaltungsrecht:9:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Debus, VBlBW 2018, 394",
+          "authors": [
+            "Debus"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-03"
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:10",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 10,
+      "publishedOn": "2026-11-09",
+      "calendarWeek": "2026-W46",
+      "topic": "Polizei- und Ordnungsrecht II – Standardmaßnahmen und Polizeipflichtigkeit",
+      "objectives": [
+        "Standardmaßnahmen (§§ 27 ff. PolG), insbesondere Identitätsfeststellung, Platzverweis, Aufenthaltsverbot und Sicherstellung",
+        "Doppelfunktionale Maßnahmen und Rechtsweg",
+        "Störerauswahl (§§ 6 ff. PolG)",
+        "Nichtstörer (§ 9 PolG)",
+        "Entschädigung (§ 100 PolG analog)",
+        "Fortsetzungsfeststellungsklage (§ 113 Abs. 1 Satz 4 VwGO)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1829121",
+      "literature": [
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Brinktrine/Kastner, Fallsammlung zum Verwaltungsrecht, 2. Aufl. 2005, Klausur Nr. 5",
+          "description": "2. Aufl. 2005, Klausur Nr. 5 Statthafte Klageart, Beschlagnahme, Erledigung eines VA",
+          "id": "Verwaltungsrecht:10:0",
+          "authors": [
+            "Brinktrine",
+            "Kastner"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Brake/Templin, VBlBW 2021, 132",
+          "description": "Kostenbescheid, Störerauswahl, Kostenfestsetzung",
+          "id": "Verwaltungsrecht:10:1",
+          "authors": [
+            "Brake",
+            "Templin"
+          ]
+        },
+        {
+          "type": "Selbststudiumsfall",
+          "reference": "Schneider/Olk, JURA 2018, 936",
+          "description": "Racial Profiling, Ermessensgrenzen, BPolG, Fortsetzungsfeststellungsklage, Staatshaftungsrecht",
+          "id": "Verwaltungsrecht:10:2",
+          "authors": [
+            "Schneider",
+            "Olk"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Möstl, JURA 2011, 840",
+          "description": "Struktur der polizeirechtlichen Standardmaßnahmen",
+          "id": "Verwaltungsrecht:10:3",
+          "authors": [
+            "Möstl"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Michl, JuS 2023, 119",
+          "description": "Polizeirechtliche Sicherstellung",
+          "id": "Verwaltungsrecht:10:4",
+          "authors": [
+            "Michl"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Glaser, JURA 2009, 742",
+          "description": "Polizeirechtliche Standardmaßnahmen im Rahmen von Datenerhebungen",
+          "id": "Verwaltungsrecht:10:5",
+          "authors": [
+            "Glaser"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schoch, JURA 2012, 685",
+          "description": "Störerauswahl, Kostentragung, interner Störerausgleich",
+          "id": "Verwaltungsrecht:10:6",
+          "authors": [
+            "Schoch"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schenke, JuS 2016, 507",
+          "description": "Nicht geschäftsfähige Störer",
+          "id": "Verwaltungsrecht:10:7",
+          "authors": [
+            "Schenke"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Danne, JuS 2018, 434",
+          "description": "Doppelfunktionale Maßnahmen",
+          "id": "Verwaltungsrecht:10:8",
+          "authors": [
+            "Danne"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Kießling, JURA 2016, 483",
+          "description": "Nichtstörer und andere Unbeteiligte, Kosten- und Entschädigungsansprüche",
+          "id": "Verwaltungsrecht:10:9",
+          "authors": [
+            "Kießling"
+          ]
+        },
+        {
+          "type": "Didaktischer Beitrag",
+          "reference": "Schenke, JuS 2007, 697",
+          "description": "Fortsetzungsfeststellungsklage",
+          "id": "Verwaltungsrecht:10:10",
+          "authors": [
+            "Schenke"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:10:gruppe-1",
+          "type": "Lerngruppenfall",
+          "reference": "Bruckert, VBlBW 2024, 218",
+          "authors": [
+            "Bruckert"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-03"
+        },
+        {
+          "id": "Verwaltungsrecht:10:gruppe-2",
+          "type": "Lerngruppenfall",
+          "reference": "Geis, Fälle zum Polizei- und Ordnungsrecht, 5. Aufl. 2024, Fall 2, S. 25 ff.",
+          "authors": [
+            "Geis"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-17"
+        },
+        {
+          "id": "Verwaltungsrecht:10:gruppe-3",
+          "type": "Lerngruppenfall",
+          "reference": "Hering/Tuchtfeld, JURA 2022, 229",
+          "authors": [
+            "Hering",
+            "Tuchtfeld"
+          ],
+          "description": "",
+          "scheduledOn": "2027-01-17"
+        }
+      ]
+    }
+  ]
+}

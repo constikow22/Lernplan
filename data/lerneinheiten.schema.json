@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Rep²plus 68",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "weeks", "units"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "weeks": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/week" } },
+    "units": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/unit" } }
+  },
+  "$defs": {
+    "text": { "type": "string", "minLength": 1 },
+    "id": { "type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9:_-]*$" },
+    "unitId": { "type": "string", "pattern": "^(Strafrecht|Verwaltungsrecht|Staatsrecht):[1-9][0-9]*[a-z]?$" },
+    "date": { "type": "string", "format": "date" },
+    "subject": { "enum": ["Strafrecht", "Öffentliches Recht"] },
+    "week": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["num", "from", "to", "tasks"],
+      "properties": {
+        "num": { "type": "integer", "minimum": 1 },
+        "from": { "$ref": "#/$defs/date" },
+        "to": { "$ref": "#/$defs/date" },
+        "tasks": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/task" } }
+      }
+    },
+    "task": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "date", "day", "area", "category", "title", "instructions"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "date": { "$ref": "#/$defs/date" },
+        "day": { "enum": ["Mo", "Di", "Fr", "Sa"] },
+        "area": { "$ref": "#/$defs/subject" },
+        "category": { "$ref": "#/$defs/text" },
+        "title": { "$ref": "#/$defs/text" },
+        "instructions": { "$ref": "#/$defs/text" },
+        "unitId": { "$ref": "#/$defs/unitId" }
+      }
+    },
+    "unit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "subject", "section", "number", "publishedOn", "calendarWeek", "topic", "objectives", "sourceUrl", "literature"],
+      "properties": {
+        "id": { "$ref": "#/$defs/unitId" },
+        "subject": { "$ref": "#/$defs/subject" },
+        "section": { "enum": ["Strafrecht", "Verwaltungsrecht", "Staatsrecht"] },
+        "number": { "oneOf": [{ "type": "integer", "minimum": 1 }, { "type": "string", "pattern": "^[1-9][0-9]*[a-z]$" }] },
+        "publishedOn": { "oneOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] },
+        "calendarWeek": { "type": "string", "pattern": "^[0-9]{4}-W(0[1-9]|[1-4][0-9]|5[0-3])$" },
+        "topic": { "$ref": "#/$defs/text" },
+        "objectives": { "type": "array", "items": { "$ref": "#/$defs/text" } },
+        "sourceUrl": { "type": "string", "pattern": "^https://ilias\\.uni-mannheim\\.de/goto\\.php/(fold|file)/[0-9]+$" },
+        "literature": { "type": "array", "items": { "$ref": "#/$defs/literature" } }
+      }
+    },
+    "literature": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "reference", "authors", "description"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "enum": ["Fall der Woche", "Selbststudiumsfall", "Didaktischer Beitrag", "Lerngruppenfall"] },
+        "reference": { "$ref": "#/$defs/text" },
+        "authors": { "type": "array", "items": { "$ref": "#/$defs/text" } },
+        "description": { "type": "string" },
+        "title": { "$ref": "#/$defs/text" },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "scheduledOn": { "$ref": "#/$defs/date" }
+      }
+    }
+  }
+}

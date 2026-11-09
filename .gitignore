@@ -1,0 +1,4 @@
+node_modules/
+*Fortschritt*.json
+*.pdf
+.env*
