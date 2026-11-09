@@ -2541,11 +2541,12 @@
         {
           "type": "Selbststudiumsfall",
           "reference": "Eisentraut, Fälle zum Verwaltungsrecht: 16 Klausurfälle mit ausführlichen Lösungen, 2019, Fall 9",
-          "description": "ausführlichen Lösungen, 2019, Fall 9 Allgemeine Leistungsklage, öffentlich-rechtlicher Vertrag",
+          "description": "Allgemeine Leistungsklage, öffentlich-rechtlicher Vertrag",
           "id": "Verwaltungsrecht:4:1",
           "authors": [
             "Eisentraut"
-          ]
+          ],
+          "title": "Fälle zum Verwaltungsrecht: 16 Klausurfälle mit ausführlichen Lösungen"
         },
         {
           "type": "Selbststudiumsfall",
@@ -3196,7 +3197,7 @@
         {
           "type": "Selbststudiumsfall",
           "reference": "Denz, Passentziehung bei Gefahren für das internationale Ansehen",
-          "description": "internationale Ansehen (abrufbar unter: https://examensgerecht.de/passentziehung-bei-gefahren-fuer-das-internationale-ansehen/; zuletzt abgerufen am 04.02.2025) Formelle Rechtmäßigkeit, Gefahrenprognose, Meldeauflage, Passentziehung",
+          "description": "Formelle Rechtmäßigkeit, Gefahrenprognose, Meldeauflage, Passentziehung",
           "id": "Verwaltungsrecht:9:2",
           "authors": [
             "Denz"
@@ -3207,11 +3208,12 @@
         {
           "type": "Selbststudiumsfall",
           "reference": "Heinze, Systematisches Fallrepetitorium Besonderes Verwaltungsrecht, Fall 1, S. 1 ff.",
-          "description": "Verwaltungsrecht, Fall 1, S. 1 ff. Gefährdungsanschreiben; Generalklausel; öffentliche Ordnung; Wiedereinsetzung in den vorigen Stand; Zustellung; elektronische Klageerhebung; elektronisches Urteil",
+          "description": "Gefährdungsanschreiben; Generalklausel; öffentliche Ordnung; Wiedereinsetzung in den vorigen Stand; Zustellung; elektronische Klageerhebung; elektronisches Urteil",
           "id": "Verwaltungsrecht:9:3",
           "authors": [
             "Heinze"
-          ]
+          ],
+          "title": "Systematisches Fallrepetitorium Besonderes Verwaltungsrecht"
         },
         {
           "type": "Didaktischer Beitrag",
@@ -3304,12 +3306,13 @@
         {
           "type": "Selbststudiumsfall",
           "reference": "Brinktrine/Kastner, Fallsammlung zum Verwaltungsrecht, 2. Aufl. 2005, Klausur Nr. 5",
-          "description": "2. Aufl. 2005, Klausur Nr. 5 Statthafte Klageart, Beschlagnahme, Erledigung eines VA",
+          "description": "Statthafte Klageart, Beschlagnahme, Erledigung eines VA",
           "id": "Verwaltungsrecht:10:0",
           "authors": [
             "Brinktrine",
             "Kastner"
-          ]
+          ],
+          "title": "Fallsammlung zum Verwaltungsrecht"
         },
         {
           "type": "Selbststudiumsfall",
