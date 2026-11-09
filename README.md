@@ -1,5 +1,7 @@
 # Rep²plus 68
 
+[Dashboard öffnen](https://constikow22.github.io/Lernplan/)
+
 Statisches Lern-Dashboard für Strafrecht und Öffentliches Recht. Die Website braucht
 keinen Build und lädt `data/lerneinheiten.json` beim Öffnen neu. Aufgaben und
 Literatur-Häkchen bleiben im Browser. Änderungen an der Datendatei verändern
