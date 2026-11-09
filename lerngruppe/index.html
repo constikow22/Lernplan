@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>68 · Rep²plus Lerngruppe</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/lerngruppe.css">
+</head>
+<body>
+  <header>
+    <div class="brand">Rep²plus · Lerngruppe</div>
+    <div class="heading"><h1>68</h1><span>Sonntäglicher Lerngruppenplan</span></div>
+    <p>22.11.2026 bis 25.04.2027 · Strafrecht und Öffentliches Recht</p>
+    <nav aria-label="Lernplan"><a href="../">← Zum Selbststudium</a></nav>
+  </header>
+  <main class="wrap">
+    <section class="metrics" aria-label="Lerngruppenfortschritt">
+      <div class="metric"><label>Fälle erledigt</label><strong id="group-done">–</strong>
+        <div class="progress"><div class="bar" id="group-bar"></div></div></div>
+      <div class="metric"><label>Sitzungen</label><strong id="group-sessions">–</strong></div>
+      <div class="metric"><label>Platzhalter</label><strong id="group-placeholders">–</strong></div>
+    </section>
+    <div class="tools">
+      <select id="group-subject" aria-label="Rechtsgebiet filtern">
+        <option value="all">Alle Rechtsgebiete</option>
+        <option value="Strafrecht">Strafrecht</option>
+        <option value="Öffentliches Recht">Öffentliches Recht</option>
+      </select>
+      <select id="group-status" aria-label="Bearbeitungsstatus filtern">
+        <option value="all">Alle Fälle</option>
+        <option value="open">Nur offen</option>
+        <option value="done">Nur erledigt</option>
+      </select>
+      <button id="group-backup" type="button">Fortschritt sichern</button>
+      <button id="group-restore" type="button">Fortschritt laden</button>
+      <input id="group-file" type="file" accept=".json,.csv,application/json,text/csv" hidden>
+    </div>
+    <div class="doc-info">
+      <strong>Kalender abonnieren</strong>
+      <p>Kopiere die HTTPS-Adresse und füge sie als Kalenderabonnement hinzu. Deine Kalender-App ruft Änderungen über dieselbe Adresse ab.</p>
+      <a id="calendar-url" href="../calendar/lerngruppe.ics">ICS-Adresse öffnen</a>
+      <button id="copy-calendar" type="button">ICS-Adresse kopieren</button>
+    </div>
+    <p id="group-note" role="status"></p>
+    <section class="weeks" id="group-weeks" aria-label="Sonntagstermine">
+      <p role="status">Lerngruppenplan wird geladen …</p>
+    </section>
+    <footer>Häkchen werden lokal im Browser gespeichert. Zum Umzug von der früheren HTML-Ansicht exportiere dort die CSV-Datei und wähle hier „Fortschritt laden“.</footer>
+  </main>
+  <script type="module" src="../js/lerngruppe.js"></script>
+</body>
+</html>

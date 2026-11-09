@@ -99,3 +99,56 @@ des lokalen HTTP-Caches an.
 Wenn Lernmaterial vertraulich bleiben muss, gehört es in ILIAS oder in eine
 Webanwendung mit serverseitiger Anmeldung und privatem Datenspeicher. Eine
 öffentliche Pages-Datei ist über ihre URL direkt abrufbar.
+
+## Lerngruppe und Kalenderabonnement
+
+- [Lerngruppe](https://constikow22.github.io/Lernplan/lerngruppe/)
+- [ICS-Abonnement](https://constikow22.github.io/Lernplan/calendar/lerngruppe.ics)
+
+Öffne in Google Kalender am Computer **Weitere Kalender → + → Per URL** oder
+auf dem Mac in Kalender **Ablage → Neues Kalenderabonnement**. Füge die
+HTTPS-Adresse der ICS-Datei ein. Die App aktualisiert den Inhalt bei ihrem
+nächsten Abruf. Häkchen bleiben lokal. Fortschritt aus der alten Lerngruppen-HTML
+kann über deren CSV-Export geladen werden, soweit Datum, Fach und Fallbezeichnung
+eindeutig übereinstimmen.
+
+### Lerngruppendaten pflegen
+
+`data/lerngruppenplan.json` ist die Quelle für Ansicht und Kalender. Jede
+Sitzung speichert einmal ihr Datum, Fach, ID und Kalender-UID. Die darunter
+liegenden Fälle übernehmen Datum und Fach der Sitzung. Ein bestätigter Fall
+hat `authors`, `reference` und optional einen belegten `title`. Ein
+Platzhalter hat eine `slot`-Nummer innerhalb seiner `unitId`, leere
+`authors` und `reference: null`. Beim Ersetzen bleiben ID, Einheit, Slot
+und Sitzung erhalten. `Verwaltungsrecht:1` und `Staatsrecht:1` sind
+verschiedene Einheiten.
+
+Für die wöchentliche Pflege verifizierte Gruppenfälle aus den offiziellen
+ILIAS-Übersichten mit den vorhandenen Zuordnungen abgleichen. Sitzungen
+und bestätigte Fallzuordnungen bleiben bestehen, auch in Kursferien. Beachte
+den Freischaltzeitpunkt, Ferien und Wiederholungswochen. Melde Überhänge,
+drohende Überschneidungen und Zuordnungen, die nicht eindeutig sind. Verwende
+belegte bibliografische Angaben und veröffentliche keine Kurs-PDFs oder Falltexte.
+
+1. Aktuelles `main` laden, die bisherige JSON außerhalb des Repos sichern und
+   die Lerngruppen-JSON bearbeiten.
+2. Die vorhandene ICS im Checkout belassen. Sie enthält die bisherigen
+   UIDs, Änderungszeitpunkte und Sequenznummern, die das Skript fortschreibt.
+3. JSON, Termine und ICS prüfen.
+
+   ```sh
+   python3 scripts/generate_calendar.py --baseline /pfad/zur/bisherigen-lerngruppenplan.json
+   python3 scripts/generate_calendar.py --check --baseline /pfad/zur/bisherigen-lerngruppenplan.json
+   git diff --check
+   git diff -- data/lerngruppenplan.json calendar/lerngruppe.ics
+   ```
+
+4. JSON und ICS zusammen in einem Commit auf `main` veröffentlichen, nachdem
+   der Branchkopf erneut geprüft wurde. Bei einem Konflikt mit der neuesten
+   JSON und ICS neu beginnen. Anschließend beide öffentlichen Endpunkte
+   prüfen und den Stand des Pages-Deploys melden.
+
+Das Skript benötigt Python 3.10 oder neuer. Bei identischen Terminen bleibt
+die ICS bytegleich. Änderungen erhöhen ausschließlich die SEQUENCE der
+betroffenen Termine. JSON und Kalender werden zusammen veröffentlicht,
+damit GitHub Pages beide aus demselben Commit ausliefert.

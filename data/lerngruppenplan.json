@@ -1,0 +1,941 @@
+{
+  "schemaVersion": 1,
+  "sessions": [
+    {
+      "id": "w1",
+      "date": "2026-11-22",
+      "uid": "rep2plus-2026-27-01-20261122@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c1-1",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:1",
+          "authors": [
+            "Golla",
+            "Milker"
+          ],
+          "reference": "ZJS 2019, 396"
+        },
+        {
+          "id": "c1-2",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:1",
+          "authors": [
+            "Scholz",
+            "Volkert"
+          ],
+          "reference": "JuS 2021, 1042"
+        },
+        {
+          "id": "c1-3",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:2",
+          "authors": [
+            "Heidebach"
+          ],
+          "reference": "JA 2009, 797"
+        },
+        {
+          "id": "c1-4",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:2",
+          "authors": [
+            "Kment",
+            "Borchert"
+          ],
+          "reference": "JuS 2023, 38"
+        },
+        {
+          "id": "c1-5",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:3",
+          "authors": [
+            "Funke",
+            "Waidhas"
+          ],
+          "reference": "JA 2014, 439"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "date": "2026-11-29",
+      "uid": "rep2plus-2026-27-02-20261129@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c2-1",
+          "status": "confirmed",
+          "unitId": "Strafrecht:3",
+          "authors": [
+            "Kudlich"
+          ],
+          "reference": "JuS 2003, 243"
+        },
+        {
+          "id": "c2-2",
+          "status": "confirmed",
+          "unitId": "Strafrecht:3",
+          "authors": [
+            "Bülte",
+            "Kuchinke"
+          ],
+          "reference": "ZJS 2024, 197"
+        },
+        {
+          "id": "c2-3",
+          "status": "confirmed",
+          "unitId": "Strafrecht:4",
+          "authors": [
+            "Paul",
+            "Schubert"
+          ],
+          "reference": "JuS 2013, 1007"
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "date": "2026-12-06",
+      "uid": "rep2plus-2026-27-03-20261206@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c3-1",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:3",
+          "authors": [
+            "Manssen",
+            "Greim"
+          ],
+          "reference": "JuS 2010, 429"
+        },
+        {
+          "id": "c3-2",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:4",
+          "authors": [
+            "Broscheit"
+          ],
+          "reference": "JA 2016, 840"
+        },
+        {
+          "id": "c3-3",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:4",
+          "authors": [
+            "Wienfort"
+          ],
+          "reference": "JuS 2021, 610"
+        },
+        {
+          "id": "c3-4",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:5",
+          "authors": [
+            "Klotz"
+          ],
+          "reference": "JA 2016, 123"
+        },
+        {
+          "id": "c3-5",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:5",
+          "authors": [
+            "Hartmann",
+            "Horstmann"
+          ],
+          "reference": "JuS 2024, 341"
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "date": "2026-12-13",
+      "uid": "rep2plus-2026-27-04-20261213@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c4-1",
+          "status": "confirmed",
+          "unitId": "Strafrecht:4",
+          "authors": [
+            "Wagner",
+            "Drachsler"
+          ],
+          "reference": "ZJS 2011, 530"
+        },
+        {
+          "id": "c4-2",
+          "status": "confirmed",
+          "unitId": "Strafrecht:5",
+          "authors": [
+            "Petermann"
+          ],
+          "reference": "JuS 2009, 1119"
+        },
+        {
+          "id": "c4-3",
+          "status": "confirmed",
+          "unitId": "Strafrecht:5",
+          "authors": [
+            "Lenk",
+            "Gerasimou"
+          ],
+          "reference": "JA 2024, 121"
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "date": "2026-12-20",
+      "uid": "rep2plus-2026-27-05-20261220@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c5-1",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:6",
+          "authors": [
+            "Janson",
+            "Blenk"
+          ],
+          "reference": "JuS 2018, 461"
+        },
+        {
+          "id": "c5-2",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:6",
+          "authors": [
+            "Seidel",
+            "Reimer",
+            "Möstl"
+          ],
+          "reference": "Allgemeines Verwaltungsrecht, 3. Aufl. 2019, Fall 14"
+        },
+        {
+          "id": "c5-3",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:7",
+          "authors": [
+            "Egidy"
+          ],
+          "reference": "VBlBW 2024, 392; 433"
+        },
+        {
+          "id": "c5-4",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:7",
+          "authors": [
+            "Beyerbach"
+          ],
+          "reference": "JA 2018, 121"
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "date": "2026-12-27",
+      "uid": "rep2plus-2026-27-06-20261227@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c6-1",
+          "status": "confirmed",
+          "unitId": "Strafrecht:6",
+          "authors": [
+            "Kett-Straub",
+            "Linke"
+          ],
+          "reference": "JuS 2008, 717"
+        },
+        {
+          "id": "c6-2",
+          "status": "confirmed",
+          "unitId": "Strafrecht:6",
+          "authors": [
+            "Schach"
+          ],
+          "reference": "JA 2014, 113"
+        },
+        {
+          "id": "c6-3",
+          "status": "confirmed",
+          "unitId": "Strafrecht:7",
+          "authors": [
+            "Rensch",
+            "Schwarz"
+          ],
+          "reference": "ZJS 2021, 370"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "date": "2027-01-03",
+      "uid": "rep2plus-2026-27-07-20270103@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c7-1",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:8",
+          "authors": [
+            "Bader"
+          ],
+          "reference": "JURA 2009, 940"
+        },
+        {
+          "id": "c7-2",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:8",
+          "authors": [
+            "Groß"
+          ],
+          "reference": "VBlBW 2024, 41; 83"
+        },
+        {
+          "id": "c7-3",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:9",
+          "authors": [
+            "Seidel",
+            "Stendel",
+            "Lang"
+          ],
+          "reference": "Besonderes Verwaltungsrecht, 4. Aufl. 2023, Fall 16"
+        },
+        {
+          "id": "c7-4",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:9",
+          "authors": [
+            "Debus"
+          ],
+          "reference": "VBlBW 2018, 394"
+        },
+        {
+          "id": "c7-5",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:10",
+          "authors": [
+            "Bruckert"
+          ],
+          "reference": "VBlBW 2024, 218"
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "date": "2027-01-10",
+      "uid": "rep2plus-2026-27-08-20270110@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c8-1",
+          "status": "confirmed",
+          "unitId": "Strafrecht:7",
+          "authors": [
+            "Kudlich"
+          ],
+          "reference": "JA 2023, 744"
+        },
+        {
+          "id": "c8-2",
+          "status": "confirmed",
+          "unitId": "Strafrecht:9",
+          "authors": [
+            "Schumann",
+            "Zivanic"
+          ],
+          "reference": "JA 2018, 504"
+        },
+        {
+          "id": "c8-3",
+          "status": "confirmed",
+          "unitId": "Strafrecht:9",
+          "authors": [
+            "Moldenhauer"
+          ],
+          "reference": "JA 2025, 28"
+        }
+      ]
+    },
+    {
+      "id": "w9",
+      "date": "2027-01-17",
+      "uid": "rep2plus-2026-27-09-20270117@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c9-1",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:10",
+          "authors": [
+            "Geis"
+          ],
+          "reference": "Fälle zum Polizei- und Ordnungsrecht, 5. Aufl. 2024, Fall 2, S. 25 ff."
+        },
+        {
+          "id": "c9-vwr-le10-3",
+          "status": "confirmed",
+          "unitId": "Verwaltungsrecht:10",
+          "authors": [
+            "Hering",
+            "Tuchtfeld"
+          ],
+          "reference": "JURA 2022, 229"
+        },
+        {
+          "id": "c9-2",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:11",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c9-3",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:11",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c9-4",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:12",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c9-5",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:12",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "date": "2027-01-24",
+      "uid": "rep2plus-2026-27-10-20270124@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c10-1",
+          "status": "confirmed",
+          "unitId": "Strafrecht:10",
+          "authors": [
+            "Oğlakcıoğlu",
+            "Rückert"
+          ],
+          "reference": "Fälle zum Strafrecht BT, 2. Aufl. 2022, Fall 6"
+        },
+        {
+          "id": "c10-2",
+          "status": "confirmed",
+          "unitId": "Strafrecht:10",
+          "authors": [
+            "Oğlakcıoğlu",
+            "Rückert"
+          ],
+          "reference": "Fälle zum Strafrecht BT, 2. Aufl. 2022, Fall 9"
+        },
+        {
+          "id": "c10-3",
+          "status": "placeholder",
+          "unitId": "Strafrecht:11",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "date": "2027-01-31",
+      "uid": "rep2plus-2026-27-11-20270131@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c11-1",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:13",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c11-2",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:13",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c11-3",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:14",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c11-4",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:14",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c11-5",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:15",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "date": "2027-02-07",
+      "uid": "rep2plus-2026-27-12-20270207@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c12-1",
+          "status": "placeholder",
+          "unitId": "Strafrecht:11",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c12-2",
+          "status": "placeholder",
+          "unitId": "Strafrecht:12",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c12-3",
+          "status": "placeholder",
+          "unitId": "Strafrecht:12",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "date": "2027-02-14",
+      "uid": "rep2plus-2026-27-13-20270214@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c13-1",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:15",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c13-2",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:16",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c13-3",
+          "status": "placeholder",
+          "unitId": "Verwaltungsrecht:16",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c13-4",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:1",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c13-5",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:1",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w14",
+      "date": "2027-02-21",
+      "uid": "rep2plus-2026-27-14-20270221@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c14-1",
+          "status": "placeholder",
+          "unitId": "Strafrecht:13",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c14-2",
+          "status": "placeholder",
+          "unitId": "Strafrecht:13",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w15",
+      "date": "2027-02-28",
+      "uid": "rep2plus-2026-27-15-20270228@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c15-1",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:2",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c15-2",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:2",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c15-3",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:3",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c15-4",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:3",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c15-5",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:4",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w16",
+      "date": "2027-03-07",
+      "uid": "rep2plus-2026-27-16-20270307@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c16-1",
+          "status": "placeholder",
+          "unitId": "Strafrecht:14",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c16-2",
+          "status": "placeholder",
+          "unitId": "Strafrecht:14",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w17",
+      "date": "2027-03-14",
+      "uid": "rep2plus-2026-27-17-20270314@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c17-1",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:4",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c17-2",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:5",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c17-3",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:5",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c17-4",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:6",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "date": "2027-03-21",
+      "uid": "rep2plus-2026-27-18-20270321@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c18-1",
+          "status": "placeholder",
+          "unitId": "Strafrecht:15",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c18-2",
+          "status": "placeholder",
+          "unitId": "Strafrecht:15",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w19",
+      "date": "2027-03-28",
+      "uid": "rep2plus-2026-27-19-20270328@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c19-1",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:6",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c19-2",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:7",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c19-3",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:7",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c19-4",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:8",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c19-5",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:8",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w20",
+      "date": "2027-04-04",
+      "uid": "rep2plus-2026-27-20-20270404@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c20-1",
+          "status": "placeholder",
+          "unitId": "Strafrecht:17",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c20-2",
+          "status": "placeholder",
+          "unitId": "Strafrecht:17",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w21",
+      "date": "2027-04-11",
+      "uid": "rep2plus-2026-27-21-20270411@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c21-1",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:9",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c21-2",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:9",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c21-3",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:10",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c21-4",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:10",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c21-5",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:11",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w22",
+      "date": "2027-04-18",
+      "uid": "rep2plus-2026-27-22-20270418@lernplan.local",
+      "subject": "Strafrecht",
+      "cases": [
+        {
+          "id": "c22-1",
+          "status": "placeholder",
+          "unitId": "Strafrecht:18",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c22-2",
+          "status": "placeholder",
+          "unitId": "Strafrecht:18",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    },
+    {
+      "id": "w23",
+      "date": "2027-04-25",
+      "uid": "rep2plus-2026-27-23-20270425@lernplan.local",
+      "subject": "Öffentliches Recht",
+      "cases": [
+        {
+          "id": "c23-1",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:11",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c23-2",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:12",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c23-3",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:12",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c23-4",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:13",
+          "slot": 1,
+          "authors": [],
+          "reference": null
+        },
+        {
+          "id": "c23-5",
+          "status": "placeholder",
+          "unitId": "Staatsrecht:13",
+          "slot": 2,
+          "authors": [],
+          "reference": null
+        }
+      ]
+    }
+  ]
+}

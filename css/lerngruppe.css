@@ -1,0 +1,22 @@
+header nav { margin-top: 12px; }
+header nav a { color: #c4d0e2; }
+.group-summary { list-style: none; }
+.group-summary::-webkit-details-marker { display: none; }
+.group-summary::after { content: '⌄'; color: var(--muted); }
+.week[open] > .group-summary::after { content: '⌃'; }
+.group-summary .count { margin-left: auto; text-align: right; }
+.group-subject { margin: 4px 0; }
+.group-units { font-size: 12px; color: var(--muted); }
+.group-cases { display: grid; gap: 8px; padding: 0 16px 16px; }
+.group-cases .task { min-height: 0; }
+.group-placeholder { color: #684c08; background: #fff1cd; }
+.doc-info p { margin: 5px 0 8px; }
+#copy-calendar { margin-left: 8px; padding: 5px 8px; }
+#group-note:empty { display: none; }
+@media (max-width: 480px) {
+  .group-summary { gap: 7px; padding: 12px; }
+  .group-cases { padding: 0 10px 10px; }
+  .doc-info button { margin-top: 5px; }
+}
+#calendar-url { overflow-wrap: anywhere; }
+.group-summary > div { min-width: 0; }
