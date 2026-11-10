@@ -5,6 +5,7 @@ const $ = id => document.getElementById(id);
 const formatDate = date => date.split('-').reverse().join('.');
 const normalize = value => value.trim().toLocaleLowerCase('de');
 const groups = new Map([
+  ['Kontrollfragen-Antworten', 'Kontrollfragen der vorherigen Lerneinheit'],
   ['Fall der Woche', 'Fall der Woche'],
   ['Selbststudiumsfall', 'Fälle für das Selbststudium'],
   ['Didaktischer Beitrag', 'Empfohlene didaktische Beiträge und Fälle'],
@@ -49,6 +50,23 @@ function downloadCsv(name, records) {
 }
 
 function start({ weeks, units }) {
+  // Feste Lernroutine: Am Anfang jeder LE ab Nr. 2 zuerst die Antworten
+  // zu den Kontrollfragen der vorherigen LE ansehen. Gilt auch für neue
+  // Lerneinheiten, die Agent 68 künftig in der JSON-Datei ergänzt.
+  for (const unit of units) {
+    if (unit.number <= 1) continue;
+    const id = unit.id + ':antworten-vorherige-le';
+    if (!unit.literature.some(entry => entry.id === id)) {
+      unit.literature.unshift({
+        id,
+        type: 'Kontrollfragen-Antworten',
+        reference: 'Antworten LE ' + (unit.number - 1),
+        description: 'Antworten auf die Kontrollfragen aus ' + unit.section +
+          ' LE ' + (unit.number - 1) + ' ansehen und mit den eigenen Lösungen abgleichen.',
+        authors: [],
+      });
+    }
+  }
   const tasks = weeks.flatMap(week => week.tasks);
   const byUnit = new Map(units.map(unit => [unit.id, unit]));
   const openWeeks = new Set(weeks.map(week => week.num));
