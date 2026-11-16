@@ -389,19 +389,25 @@
         },
         {
           "id": "c9-2",
-          "status": "placeholder",
+          "status": "confirmed",
           "unitId": "Verwaltungsrecht:11",
           "slot": 1,
-          "authors": [],
-          "reference": null
+          "authors": [
+            "Hong"
+          ],
+          "reference": "JURA 2012, 473"
         },
         {
           "id": "c9-3",
-          "status": "placeholder",
+          "status": "confirmed",
           "unitId": "Verwaltungsrecht:11",
           "slot": 2,
-          "authors": [],
-          "reference": null
+          "authors": [
+            "Bergmann",
+            "Jung",
+            "Neckenich"
+          ],
+          "reference": "VBlBW 2018, 217"
         },
         {
           "id": "c9-4",
@@ -449,11 +455,14 @@
         },
         {
           "id": "c10-3",
-          "status": "placeholder",
+          "status": "confirmed",
           "unitId": "Strafrecht:11",
           "slot": 1,
-          "authors": [],
-          "reference": null
+          "authors": [
+            "Liefke",
+            "Stahnke"
+          ],
+          "reference": "JuS 2024, 151"
         }
       ]
     },
@@ -513,11 +522,13 @@
       "cases": [
         {
           "id": "c12-1",
-          "status": "placeholder",
+          "status": "confirmed",
           "unitId": "Strafrecht:11",
           "slot": 2,
-          "authors": [],
-          "reference": null
+          "authors": [
+            "Schwarze"
+          ],
+          "reference": "ZJS 2023, 1088"
         },
         {
           "id": "c12-2",

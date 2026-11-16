@@ -153,16 +153,16 @@ DESCRIPTION:Rep²plus – Lerngruppe\n\nRechtsgebiet: Öffentliches Recht\n
  \nLerneinheiten: Verwaltungsrecht LE 10\, Verwaltungsrecht LE 11\, Verwalt
  ungsrecht LE 12\n\nZu besprechende Fälle:\n\n1. Geis\, Fälle zum Polizei
  - und Ordnungsrecht\, 5. Aufl. 2024\, Fall 2\, S. 25 ff.\n2. Hering/Tuchtf
- eld\, JURA 2022\, 229\n3. Verwaltungsrecht LE 11 – Fall 1 [Platzhalter]\
- n4. Verwaltungsrecht LE 11 – Fall 2 [Platzhalter]\n5. Verwaltungsrecht L
- E 12 – Fall 1 [Platzhalter]\n6. Verwaltungsrecht LE 12 – Fall 2 [Platz
- halter]\n\nLernplan: https://constikow22.github.io/Lernplan/lerngruppe/
+ eld\, JURA 2022\, 229\n3. Hong\, JURA 2012\, 473\n4. Bergmann/Jung/Neckeni
+ ch\, VBlBW 2018\, 217\n5. Verwaltungsrecht LE 12 – Fall 1 [Platzhalter]\
+ n6. Verwaltungsrecht LE 12 – Fall 2 [Platzhalter]\n\nLernplan: https://c
+ onstikow22.github.io/Lernplan/lerngruppe/
 CATEGORIES:Öffentliches Recht
 URL:https://constikow22.github.io/Lernplan/lerngruppe/
 TRANSP:TRANSPARENT
-DTSTAMP:20261109T112828Z
-SEQUENCE:2
-LAST-MODIFIED:20261109T112828Z
+DTSTAMP:20261116T162901Z
+SEQUENCE:3
+LAST-MODIFIED:20261116T162901Z
 END:VEVENT
 BEGIN:VEVENT
 UID:rep2plus-2026-27-10-20270124@lernplan.local
@@ -173,14 +173,14 @@ DESCRIPTION:Rep²plus – Lerngruppe\n\nRechtsgebiet: Strafrecht\n\nLernein
  heiten: Strafrecht LE 10\, Strafrecht LE 11\n\nZu besprechende Fälle:\n\n
  1. Oğlakcıoğlu/Rückert\, Fälle zum Strafrecht BT\, 2. Aufl. 2022\, Fa
  ll 6\n2. Oğlakcıoğlu/Rückert\, Fälle zum Strafrecht BT\, 2. Aufl. 202
- 2\, Fall 9\n3. Strafrecht LE 11 – Fall 1 [Platzhalter]\n\nLernplan: http
- s://constikow22.github.io/Lernplan/lerngruppe/
+ 2\, Fall 9\n3. Liefke/Stahnke\, JuS 2024\, 151\n\nLernplan: https://consti
+ kow22.github.io/Lernplan/lerngruppe/
 CATEGORIES:Strafrecht
 URL:https://constikow22.github.io/Lernplan/lerngruppe/
 TRANSP:TRANSPARENT
-DTSTAMP:20261109T112828Z
-SEQUENCE:2
-LAST-MODIFIED:20261109T112828Z
+DTSTAMP:20261116T162901Z
+SEQUENCE:3
+LAST-MODIFIED:20261116T162901Z
 END:VEVENT
 BEGIN:VEVENT
 UID:rep2plus-2026-27-11-20270131@lernplan.local
@@ -209,15 +209,15 @@ DTEND;VALUE=DATE:20270208
 SUMMARY:68 | Strafrecht – 3 Fälle
 DESCRIPTION:Rep²plus – Lerngruppe\n\nRechtsgebiet: Strafrecht\n\nLernein
  heiten: Strafrecht LE 11\, Strafrecht LE 12\n\nZu besprechende Fälle:\n\n
- 1. Strafrecht LE 11 – Fall 2 [Platzhalter]\n2. Strafrecht LE 12 – Fall
-  1 [Platzhalter]\n3. Strafrecht LE 12 – Fall 2 [Platzhalter]\n\nLernplan
- : https://constikow22.github.io/Lernplan/lerngruppe/
+ 1. Schwarze\, ZJS 2023\, 1088\n2. Strafrecht LE 12 – Fall 1 [Platzhalter
+ ]\n3. Strafrecht LE 12 – Fall 2 [Platzhalter]\n\nLernplan: https://const
+ ikow22.github.io/Lernplan/lerngruppe/
 CATEGORIES:Strafrecht
 URL:https://constikow22.github.io/Lernplan/lerngruppe/
 TRANSP:TRANSPARENT
-DTSTAMP:20261109T112828Z
-SEQUENCE:1
-LAST-MODIFIED:20261109T112828Z
+DTSTAMP:20261116T162901Z
+SEQUENCE:2
+LAST-MODIFIED:20261116T162901Z
 END:VEVENT
 BEGIN:VEVENT
 UID:rep2plus-2026-27-13-20270214@lernplan.local
