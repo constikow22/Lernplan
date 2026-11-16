@@ -3438,6 +3438,255 @@
           "scheduledOn": "2027-01-17"
         }
       ]
+    },
+    {
+      "id": "Strafrecht:11",
+      "subject": "Strafrecht",
+      "section": "Strafrecht",
+      "number": 11,
+      "publishedOn": "2026-11-16",
+      "calendarWeek": "2026-W47",
+      "topic": "Raub, räuberische Erpressung, räuberischer Diebstahl, Erfolgsqualifikation",
+      "objectives": [
+        "Raub",
+        "Räuberische Erpressung",
+        "Räuberischer Diebstahl",
+        "Abgrenzung der vorgenannten Tatbestände",
+        "Erfolgsqualifikation"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1831832",
+      "literature": [
+        {
+          "id": "Strafrecht:11:0",
+          "type": "Fall der Woche",
+          "reference": "Fall 11",
+          "description": "Raub und räuberische Erpressung",
+          "authors": []
+        },
+        {
+          "id": "Strafrecht:11:1",
+          "type": "Didaktischer Beitrag",
+          "reference": "Kudlich/Aksoy, JA 2014, 81",
+          "description": "Verhältnis von Raub, räuberischem Diebstahl und räuberischer Erpressung in der Fallbearbeitung",
+          "authors": [
+            "Kudlich",
+            "Aksoy"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:2",
+          "type": "Didaktischer Beitrag",
+          "reference": "Kiworr, JuS 2018, 424",
+          "description": "Qualifikationen in der Beendigungsphase bei Raub und räuberischer Erpressung",
+          "authors": [
+            "Kiworr"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:3",
+          "type": "Didaktischer Beitrag",
+          "reference": "Kudlich, JA 2026, 289",
+          "description": "Diebstahl von Betäubungsmitteln, Regelbeispiele, Mordmerkmale, Notwehr, Besitzkehr, gefährlicher Eingriff in den Straßenverkehr und räuberischer Diebstahl",
+          "authors": [
+            "Kudlich"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:4",
+          "type": "Didaktischer Beitrag",
+          "reference": "Steinberg, JuS 2017, 1061",
+          "description": "Die Erfolgsqualifikation im juristischen Gutachten",
+          "authors": [
+            "Steinberg"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:5",
+          "type": "Didaktischer Beitrag",
+          "reference": "Heghmanns, ZJS 2023, 966",
+          "description": "Raub und räuberische Erpressung in der gutachterlichen Prüfung",
+          "authors": [
+            "Heghmanns"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:6",
+          "type": "Didaktischer Beitrag",
+          "reference": "Lenk, JA 2024, 869",
+          "description": "Aggressivnotstand, Gefährdung des Schiffverkehrs, Abgrenzung Raub und räuberische Erpressung, Luftpumpe als gefährliches Werkzeug",
+          "authors": [
+            "Lenk"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:7",
+          "type": "Didaktischer Beitrag",
+          "reference": "Mitsch, JuS 2020, 149",
+          "description": "Probleme des Straftatbestands räuberischer Angriff auf Kraftfahrer",
+          "authors": [
+            "Mitsch"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:8",
+          "type": "Didaktischer Beitrag",
+          "reference": "Rönnau/Saathoff, JuS 2026, 336",
+          "description": "Abgrenzung von Diebstahl und Betrug sowie von Raub und räuberischer Erpressung",
+          "authors": [
+            "Rönnau",
+            "Saathoff"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:9",
+          "type": "Lerngruppenfall",
+          "reference": "Liefke/Stahnke, JuS 2024, 151",
+          "description": "",
+          "authors": [
+            "Liefke",
+            "Stahnke"
+          ]
+        },
+        {
+          "id": "Strafrecht:11:10",
+          "type": "Lerngruppenfall",
+          "reference": "Schwarze, ZJS 2023, 1088",
+          "description": "",
+          "authors": [
+            "Schwarze"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Verwaltungsrecht:11",
+      "subject": "Öffentliches Recht",
+      "section": "Verwaltungsrecht",
+      "number": 11,
+      "publishedOn": "2026-11-16",
+      "calendarWeek": "2026-W47",
+      "topic": "Polizei- und Ordnungsrecht III",
+      "objectives": [
+        "Unaufschiebbare Maßnahmen der Vollzugspolizei (§ 80 Abs. 2 Nr. 2 VwGO)",
+        "Unmittelbare Ausführung (§ 8 Abs. 1 PolG)",
+        "Verwaltungsvollstreckung",
+        "Kostenbescheid (§ 31 LVwVG)"
+      ],
+      "sourceUrl": "https://ilias.uni-mannheim.de/goto.php/fold/1831854",
+      "literature": [
+        {
+          "id": "Verwaltungsrecht:11:0",
+          "type": "Selbststudiumsfall",
+          "reference": "Adler/Bustami, JURA 2022, 1477",
+          "description": "Verwaltungsvollstreckung, Kostenbescheid, Ersatzvornahme und Bundeswasserstraßengesetz",
+          "authors": [
+            "Adler",
+            "Bustami"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:1",
+          "type": "Selbststudiumsfall",
+          "reference": "Kanzler/Schurz, JURA 2022, 220",
+          "description": "Polizeikostenrecht und Verfassungsmäßigkeit",
+          "authors": [
+            "Kanzler",
+            "Schurz"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:2",
+          "type": "Selbststudiumsfall",
+          "reference": "Neckenich, VBlBW 2019, 43",
+          "description": "Verwaltungsvollstreckung",
+          "authors": [
+            "Neckenich"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:3",
+          "type": "Didaktischer Beitrag",
+          "reference": "Fischer, JuS 2002, 446",
+          "description": "Abschleppen von Fahrzeugen im Polizeirecht",
+          "authors": [
+            "Fischer"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:4",
+          "type": "Didaktischer Beitrag",
+          "reference": "Kümper, JuS 2017, 731; 833",
+          "description": "Verkehrszeichen im Polizei- und Ordnungsrecht",
+          "authors": [
+            "Kümper"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:5",
+          "type": "Didaktischer Beitrag",
+          "reference": "Pracht, VBlBW 2024, 48",
+          "description": "Struktur des LVwVG",
+          "authors": [
+            "Pracht"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:6",
+          "type": "Didaktischer Beitrag",
+          "reference": "Muckel, JA 2012, 272",
+          "description": "Verwaltungsvollstreckung in der Klausur",
+          "authors": [
+            "Muckel"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:7",
+          "type": "Didaktischer Beitrag",
+          "reference": "Kingreen, JURA 2022, 129",
+          "description": "Kostenbescheid und Platzverweis",
+          "authors": [
+            "Kingreen"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:8",
+          "type": "Didaktischer Beitrag",
+          "reference": "App, JuS 2004, 786",
+          "description": "Einführung in das Verwaltungsvollstreckungsrecht",
+          "authors": [
+            "App"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:9",
+          "type": "Didaktischer Beitrag",
+          "reference": "Jahr, ZJS 2004, 181",
+          "description": "Rechtscharakter von Standardmaßnahmen, unmittelbarer Ausführung und Vollstreckung",
+          "authors": [
+            "Jahr"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:10",
+          "type": "Lerngruppenfall",
+          "reference": "Hong, JURA 2012, 473",
+          "description": "",
+          "authors": [
+            "Hong"
+          ]
+        },
+        {
+          "id": "Verwaltungsrecht:11:11",
+          "type": "Lerngruppenfall",
+          "reference": "Bergmann/Jung/Neckenich, VBlBW 2018, 217",
+          "description": "",
+          "authors": [
+            "Bergmann",
+            "Jung",
+            "Neckenich"
+          ]
+        }
+      ]
     }
   ]
 }
